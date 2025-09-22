@@ -1,0 +1,1501 @@
+nik,nama,usia,jenis_kelamin,alamat,kota,pekerjaan,status_perkawinan
+320152000001,Penduduk_1,52,Laki-laki,Jl. Contoh No.1,Denpasar,Petani,Kawin
+320132000002,Penduduk_2,15,Laki-laki,Jl. Contoh No.2,Yogyakarta,Mahasiswa,Cerai Mati
+320128000003,Penduduk_3,72,Laki-laki,Jl. Contoh No.3,Yogyakarta,PNS,Cerai Hidup
+320192000004,Penduduk_4,61,Laki-laki,Jl. Contoh No.4,Jakarta,Guru,Cerai Hidup
+320131000005,Penduduk_5,21,Perempuan,Jl. Contoh No.5,Medan,Dokter,Belum Kawin
+320138000006,Penduduk_6,83,Perempuan,Jl. Contoh No.6,Jakarta,Pelajar,Cerai Mati
+320131000007,Penduduk_7,87,Laki-laki,Jl. Contoh No.7,Yogyakarta,Mahasiswa,Belum Kawin
+320104000008,Penduduk_8,75,Laki-laki,Jl. Contoh No.8,Bandung,Petani,Cerai Hidup
+320148000009,Penduduk_9,75,Laki-laki,Jl. Contoh No.9,Makassar,Dokter,Belum Kawin
+320133000010,Penduduk_10,88,Perempuan,Jl. Contoh No.10,Makassar,Guru,Cerai Hidup
+320183000011,Penduduk_11,24,Laki-laki,Jl. Contoh No.11,Denpasar,Pengangguran,Cerai Hidup
+320181000012,Penduduk_12,3,Perempuan,Jl. Contoh No.12,Makassar,Pengangguran,Belum Kawin
+320121000013,Penduduk_13,22,Perempuan,Jl. Contoh No.13,Denpasar,Petani,Belum Kawin
+320101000014,Penduduk_14,53,Perempuan,Jl. Contoh No.14,Denpasar,Pelajar,Kawin
+320134000015,Penduduk_15,2,Laki-laki,Jl. Contoh No.15,Denpasar,Pelajar,Kawin
+320194000016,Penduduk_16,88,Perempuan,Jl. Contoh No.16,Yogyakarta,Guru,Kawin
+320176000017,Penduduk_17,30,Laki-laki,Jl. Contoh No.17,Yogyakarta,Mahasiswa,Cerai Hidup
+320151000018,Penduduk_18,38,Perempuan,Jl. Contoh No.18,Medan,Guru,Belum Kawin
+320181000019,Penduduk_19,2,Laki-laki,Jl. Contoh No.19,Surabaya,Wiraswasta,Cerai Mati
+320113000020,Penduduk_20,64,Perempuan,Jl. Contoh No.20,Denpasar,Pelajar,Cerai Hidup
+320149000021,Penduduk_21,60,Laki-laki,Jl. Contoh No.21,Denpasar,Dokter,Cerai Mati
+320175000022,Penduduk_22,21,Perempuan,Jl. Contoh No.22,Surabaya,Wiraswasta,Belum Kawin
+320131000023,Penduduk_23,33,Laki-laki,Jl. Contoh No.23,Jakarta,Pengangguran,Cerai Hidup
+320147000024,Penduduk_24,76,Laki-laki,Jl. Contoh No.24,Denpasar,Pengangguran,Cerai Mati
+320159000025,Penduduk_25,58,Laki-laki,Jl. Contoh No.25,Medan,PNS,Cerai Mati
+320118000026,Penduduk_26,22,Laki-laki,Jl. Contoh No.26,Makassar,Petani,Kawin
+320171000027,Penduduk_27,89,Perempuan,Jl. Contoh No.27,Makassar,Wiraswasta,Kawin
+320108000028,Penduduk_28,49,Perempuan,Jl. Contoh No.28,Bandung,Petani,Kawin
+320151000029,Penduduk_29,59,Laki-laki,Jl. Contoh No.29,Bandung,Guru,Cerai Hidup
+320107000030,Penduduk_30,42,Perempuan,Jl. Contoh No.30,Makassar,Wiraswasta,Belum Kawin
+320113000031,Penduduk_31,60,Laki-laki,Jl. Contoh No.31,Makassar,Guru,Belum Kawin
+320186000032,Penduduk_32,80,Laki-laki,Jl. Contoh No.32,Yogyakarta,PNS,Kawin
+320103000033,Penduduk_33,15,Perempuan,Jl. Contoh No.33,Medan,Pelajar,Kawin
+320189000034,Penduduk_34,62,Laki-laki,Jl. Contoh No.34,Surabaya,Pengangguran,Kawin
+320139000035,Penduduk_35,62,Laki-laki,Jl. Contoh No.35,Bandung,PNS,Cerai Mati
+320131000036,Penduduk_36,47,Perempuan,Jl. Contoh No.36,Yogyakarta,Pengangguran,Kawin
+320108000037,Penduduk_37,62,Laki-laki,Jl. Contoh No.37,Yogyakarta,Pelajar,Cerai Mati
+320161000038,Penduduk_38,51,Laki-laki,Jl. Contoh No.38,Surabaya,Guru,Belum Kawin
+320155000039,Penduduk_39,55,Laki-laki,Jl. Contoh No.39,Yogyakarta,Pelajar,Cerai Hidup
+320175000040,Penduduk_40,64,Laki-laki,Jl. Contoh No.40,Medan,Pengangguran,Cerai Hidup
+320104000041,Penduduk_41,3,Perempuan,Jl. Contoh No.41,Makassar,Pengangguran,Cerai Hidup
+320123000042,Penduduk_42,51,Perempuan,Jl. Contoh No.42,Denpasar,Petani,Cerai Hidup
+320121000043,Penduduk_43,7,Perempuan,Jl. Contoh No.43,Surabaya,Dokter,Cerai Mati
+320138000044,Penduduk_44,21,Laki-laki,Jl. Contoh No.44,Makassar,PNS,Cerai Mati
+320168000045,Penduduk_45,73,Laki-laki,Jl. Contoh No.45,Makassar,Wiraswasta,Kawin
+320144000046,Penduduk_46,39,Perempuan,Jl. Contoh No.46,Jakarta,Pengangguran,Cerai Mati
+320122000047,Penduduk_47,18,Laki-laki,Jl. Contoh No.47,Surabaya,PNS,Kawin
+320133000048,Penduduk_48,4,Laki-laki,Jl. Contoh No.48,Yogyakarta,Petani,Kawin
+320104000049,Penduduk_49,89,Laki-laki,Jl. Contoh No.49,Denpasar,Pelajar,Cerai Hidup
+320108000050,Penduduk_50,60,Laki-laki,Jl. Contoh No.50,Surabaya,Petani,Cerai Mati
+320137000051,Penduduk_51,14,Perempuan,Jl. Contoh No.51,Yogyakarta,Mahasiswa,Cerai Mati
+320177000052,Penduduk_52,9,Perempuan,Jl. Contoh No.52,Makassar,Mahasiswa,Kawin
+320129000053,Penduduk_53,53,Perempuan,Jl. Contoh No.53,Denpasar,Wiraswasta,Kawin
+320131000054,Penduduk_54,2,Laki-laki,Jl. Contoh No.54,Yogyakarta,Petani,Belum Kawin
+320115000055,Penduduk_55,84,Perempuan,Jl. Contoh No.55,Medan,Guru,Belum Kawin
+320188000056,Penduduk_56,60,Perempuan,Jl. Contoh No.56,Yogyakarta,Wiraswasta,Kawin
+320118000057,Penduduk_57,71,Laki-laki,Jl. Contoh No.57,Jakarta,Guru,Belum Kawin
+320157000058,Penduduk_58,44,Laki-laki,Jl. Contoh No.58,Makassar,Wiraswasta,Belum Kawin
+320139000059,Penduduk_59,8,Perempuan,Jl. Contoh No.59,Yogyakarta,Mahasiswa,Kawin
+320173000060,Penduduk_60,47,Perempuan,Jl. Contoh No.60,Bandung,Wiraswasta,Kawin
+320169000061,Penduduk_61,35,Perempuan,Jl. Contoh No.61,Bandung,Mahasiswa,Cerai Mati
+320142000062,Penduduk_62,78,Perempuan,Jl. Contoh No.62,Jakarta,Pengangguran,Kawin
+320189000063,Penduduk_63,81,Laki-laki,Jl. Contoh No.63,Medan,Pelajar,Kawin
+320148000064,Penduduk_64,36,Perempuan,Jl. Contoh No.64,Makassar,Guru,Cerai Hidup
+320144000065,Penduduk_65,50,Perempuan,Jl. Contoh No.65,Surabaya,Petani,Cerai Mati
+320132000066,Penduduk_66,4,Laki-laki,Jl. Contoh No.66,Jakarta,Pengangguran,Cerai Mati
+320102000067,Penduduk_67,2,Perempuan,Jl. Contoh No.67,Medan,Pengangguran,Cerai Mati
+320129000068,Penduduk_68,6,Laki-laki,Jl. Contoh No.68,Surabaya,Wiraswasta,Cerai Hidup
+320148000069,Penduduk_69,54,Laki-laki,Jl. Contoh No.69,Bandung,Mahasiswa,Kawin
+320140000070,Penduduk_70,4,Laki-laki,Jl. Contoh No.70,Bandung,PNS,Cerai Mati
+320130000071,Penduduk_71,54,Perempuan,Jl. Contoh No.71,Surabaya,Guru,Cerai Mati
+320136000072,Penduduk_72,63,Perempuan,Jl. Contoh No.72,Jakarta,Pengangguran,Belum Kawin
+320102000073,Penduduk_73,18,Laki-laki,Jl. Contoh No.73,Bandung,Wiraswasta,Cerai Mati
+320186000074,Penduduk_74,44,Perempuan,Jl. Contoh No.74,Makassar,Dokter,Kawin
+320125000075,Penduduk_75,34,Perempuan,Jl. Contoh No.75,Denpasar,Pelajar,Kawin
+320111000076,Penduduk_76,74,Laki-laki,Jl. Contoh No.76,Yogyakarta,Pelajar,Belum Kawin
+320161000077,Penduduk_77,62,Laki-laki,Jl. Contoh No.77,Surabaya,PNS,Cerai Mati
+320109000078,Penduduk_78,14,Perempuan,Jl. Contoh No.78,Surabaya,Mahasiswa,Cerai Mati
+320187000079,Penduduk_79,48,Laki-laki,Jl. Contoh No.79,Bandung,Wiraswasta,Cerai Mati
+320137000080,Penduduk_80,15,Perempuan,Jl. Contoh No.80,Jakarta,Guru,Cerai Hidup
+320125000081,Penduduk_81,72,Perempuan,Jl. Contoh No.81,Makassar,Mahasiswa,Cerai Mati
+320167000082,Penduduk_82,78,Perempuan,Jl. Contoh No.82,Jakarta,Pelajar,Kawin
+320156000083,Penduduk_83,87,Perempuan,Jl. Contoh No.83,Medan,Mahasiswa,Kawin
+320116000084,Penduduk_84,62,Laki-laki,Jl. Contoh No.84,Medan,Pelajar,Cerai Hidup
+320138000085,Penduduk_85,40,Laki-laki,Jl. Contoh No.85,Denpasar,Mahasiswa,Cerai Hidup
+320154000086,Penduduk_86,85,Laki-laki,Jl. Contoh No.86,Bandung,PNS,Cerai Mati
+320154000087,Penduduk_87,80,Laki-laki,Jl. Contoh No.87,Bandung,Petani,Belum Kawin
+320155000088,Penduduk_88,82,Perempuan,Jl. Contoh No.88,Bandung,PNS,Cerai Hidup
+320190000089,Penduduk_89,53,Perempuan,Jl. Contoh No.89,Denpasar,PNS,Cerai Hidup
+320104000090,Penduduk_90,24,Laki-laki,Jl. Contoh No.90,Medan,Petani,Cerai Mati
+320121000091,Penduduk_91,26,Perempuan,Jl. Contoh No.91,Jakarta,Petani,Cerai Mati
+320160000092,Penduduk_92,89,Perempuan,Jl. Contoh No.92,Denpasar,Pengangguran,Cerai Hidup
+320178000093,Penduduk_93,60,Perempuan,Jl. Contoh No.93,Denpasar,Pengangguran,Belum Kawin
+320158000094,Penduduk_94,41,Laki-laki,Jl. Contoh No.94,Jakarta,Wiraswasta,Cerai Hidup
+320155000095,Penduduk_95,29,Laki-laki,Jl. Contoh No.95,Bandung,Guru,Cerai Mati
+320184000096,Penduduk_96,15,Laki-laki,Jl. Contoh No.96,Makassar,Guru,Cerai Mati
+320118000097,Penduduk_97,45,Perempuan,Jl. Contoh No.97,Jakarta,Wiraswasta,Cerai Hidup
+320190000098,Penduduk_98,65,Laki-laki,Jl. Contoh No.98,Medan,PNS,Belum Kawin
+320145000099,Penduduk_99,89,Laki-laki,Jl. Contoh No.99,Surabaya,PNS,Cerai Hidup
+320123000100,Penduduk_100,71,Laki-laki,Jl. Contoh No.100,Surabaya,Pelajar,Cerai Hidup
+320132000101,Penduduk_101,9,Laki-laki,Jl. Contoh No.101,Yogyakarta,Pelajar,Cerai Mati
+320106000102,Penduduk_102,88,Laki-laki,Jl. Contoh No.102,Yogyakarta,Guru,Belum Kawin
+320147000103,Penduduk_103,1,Laki-laki,Jl. Contoh No.103,Denpasar,Wiraswasta,Kawin
+320178000104,Penduduk_104,8,Perempuan,Jl. Contoh No.104,Surabaya,Dokter,Belum Kawin
+320174000105,Penduduk_105,88,Perempuan,Jl. Contoh No.105,Makassar,Pengangguran,Cerai Hidup
+320198000106,Penduduk_106,63,Laki-laki,Jl. Contoh No.106,Bandung,Dokter,Cerai Hidup
+320105000107,Penduduk_107,11,Laki-laki,Jl. Contoh No.107,Medan,Wiraswasta,Cerai Hidup
+320132000108,Penduduk_108,81,Perempuan,Jl. Contoh No.108,Yogyakarta,Pelajar,Belum Kawin
+320113000109,Penduduk_109,8,Perempuan,Jl. Contoh No.109,Makassar,Guru,Cerai Mati
+320105000110,Penduduk_110,35,Laki-laki,Jl. Contoh No.110,Medan,Guru,Cerai Hidup
+320137000111,Penduduk_111,35,Laki-laki,Jl. Contoh No.111,Medan,Pelajar,Cerai Hidup
+320135000112,Penduduk_112,33,Laki-laki,Jl. Contoh No.112,Bandung,Dokter,Belum Kawin
+320159000113,Penduduk_113,5,Laki-laki,Jl. Contoh No.113,Denpasar,Mahasiswa,Kawin
+320180000114,Penduduk_114,41,Perempuan,Jl. Contoh No.114,Surabaya,Mahasiswa,Kawin
+320180000115,Penduduk_115,28,Laki-laki,Jl. Contoh No.115,Bandung,Pelajar,Cerai Mati
+320193000116,Penduduk_116,7,Laki-laki,Jl. Contoh No.116,Makassar,Mahasiswa,Cerai Mati
+320153000117,Penduduk_117,73,Laki-laki,Jl. Contoh No.117,Denpasar,Petani,Cerai Hidup
+320108000118,Penduduk_118,72,Laki-laki,Jl. Contoh No.118,Makassar,Wiraswasta,Belum Kawin
+320121000119,Penduduk_119,12,Perempuan,Jl. Contoh No.119,Denpasar,Wiraswasta,Cerai Hidup
+320173000120,Penduduk_120,34,Perempuan,Jl. Contoh No.120,Yogyakarta,Pelajar,Cerai Mati
+320168000121,Penduduk_121,33,Perempuan,Jl. Contoh No.121,Makassar,PNS,Belum Kawin
+320119000122,Penduduk_122,48,Laki-laki,Jl. Contoh No.122,Bandung,Pengangguran,Belum Kawin
+320143000123,Penduduk_123,23,Laki-laki,Jl. Contoh No.123,Denpasar,Dokter,Cerai Mati
+320147000124,Penduduk_124,62,Perempuan,Jl. Contoh No.124,Denpasar,Pelajar,Kawin
+320187000125,Penduduk_125,88,Laki-laki,Jl. Contoh No.125,Medan,Mahasiswa,Kawin
+320151000126,Penduduk_126,37,Laki-laki,Jl. Contoh No.126,Medan,Dokter,Belum Kawin
+320178000127,Penduduk_127,44,Perempuan,Jl. Contoh No.127,Jakarta,PNS,Cerai Hidup
+320175000128,Penduduk_128,86,Perempuan,Jl. Contoh No.128,Makassar,Mahasiswa,Kawin
+320195000129,Penduduk_129,35,Perempuan,Jl. Contoh No.129,Medan,Guru,Cerai Hidup
+320170000130,Penduduk_130,65,Perempuan,Jl. Contoh No.130,Jakarta,Pengangguran,Kawin
+320108000131,Penduduk_131,47,Laki-laki,Jl. Contoh No.131,Yogyakarta,Petani,Kawin
+320139000132,Penduduk_132,78,Laki-laki,Jl. Contoh No.132,Yogyakarta,Mahasiswa,Cerai Hidup
+320122000133,Penduduk_133,3,Perempuan,Jl. Contoh No.133,Medan,Petani,Cerai Mati
+320179000134,Penduduk_134,1,Laki-laki,Jl. Contoh No.134,Makassar,Dokter,Kawin
+320169000135,Penduduk_135,5,Perempuan,Jl. Contoh No.135,Denpasar,Petani,Kawin
+320192000136,Penduduk_136,14,Perempuan,Jl. Contoh No.136,Surabaya,Dokter,Cerai Hidup
+320178000137,Penduduk_137,27,Laki-laki,Jl. Contoh No.137,Makassar,Dokter,Cerai Mati
+320187000138,Penduduk_138,9,Perempuan,Jl. Contoh No.138,Bandung,Dokter,Kawin
+320191000139,Penduduk_139,79,Laki-laki,Jl. Contoh No.139,Yogyakarta,Dokter,Kawin
+320194000140,Penduduk_140,15,Laki-laki,Jl. Contoh No.140,Medan,Dokter,Cerai Mati
+320105000141,Penduduk_141,42,Laki-laki,Jl. Contoh No.141,Medan,Mahasiswa,Kawin
+320144000142,Penduduk_142,77,Laki-laki,Jl. Contoh No.142,Denpasar,Dokter,Cerai Mati
+320106000143,Penduduk_143,51,Perempuan,Jl. Contoh No.143,Bandung,Mahasiswa,Cerai Mati
+320198000144,Penduduk_144,63,Laki-laki,Jl. Contoh No.144,Denpasar,Dokter,Cerai Hidup
+320131000145,Penduduk_145,52,Perempuan,Jl. Contoh No.145,Bandung,Petani,Belum Kawin
+320174000146,Penduduk_146,4,Perempuan,Jl. Contoh No.146,Surabaya,Guru,Cerai Mati
+320171000147,Penduduk_147,23,Perempuan,Jl. Contoh No.147,Yogyakarta,Dokter,Cerai Hidup
+320126000148,Penduduk_148,15,Perempuan,Jl. Contoh No.148,Medan,PNS,Belum Kawin
+320148000149,Penduduk_149,43,Laki-laki,Jl. Contoh No.149,Medan,Dokter,Kawin
+320186000150,Penduduk_150,29,Laki-laki,Jl. Contoh No.150,Surabaya,Dokter,Belum Kawin
+320117000151,Penduduk_151,36,Perempuan,Jl. Contoh No.151,Jakarta,Petani,Cerai Mati
+320134000152,Penduduk_152,13,Perempuan,Jl. Contoh No.152,Yogyakarta,Pengangguran,Cerai Mati
+320184000153,Penduduk_153,32,Laki-laki,Jl. Contoh No.153,Denpasar,Wiraswasta,Cerai Mati
+320110000154,Penduduk_154,71,Perempuan,Jl. Contoh No.154,Surabaya,Petani,Cerai Mati
+320171000155,Penduduk_155,59,Laki-laki,Jl. Contoh No.155,Denpasar,PNS,Cerai Mati
+320177000156,Penduduk_156,86,Perempuan,Jl. Contoh No.156,Makassar,Wiraswasta,Cerai Hidup
+320135000157,Penduduk_157,28,Laki-laki,Jl. Contoh No.157,Medan,Pelajar,Cerai Mati
+320150000158,Penduduk_158,66,Perempuan,Jl. Contoh No.158,Denpasar,Pelajar,Cerai Hidup
+320109000159,Penduduk_159,42,Perempuan,Jl. Contoh No.159,Bandung,Pengangguran,Kawin
+320190000160,Penduduk_160,45,Laki-laki,Jl. Contoh No.160,Denpasar,PNS,Cerai Mati
+320176000161,Penduduk_161,62,Perempuan,Jl. Contoh No.161,Makassar,Petani,Cerai Mati
+320111000162,Penduduk_162,57,Perempuan,Jl. Contoh No.162,Yogyakarta,Mahasiswa,Belum Kawin
+320159000163,Penduduk_163,6,Laki-laki,Jl. Contoh No.163,Medan,PNS,Kawin
+320170000164,Penduduk_164,28,Perempuan,Jl. Contoh No.164,Surabaya,Guru,Cerai Mati
+320148000165,Penduduk_165,28,Laki-laki,Jl. Contoh No.165,Makassar,Wiraswasta,Cerai Mati
+320135000166,Penduduk_166,44,Laki-laki,Jl. Contoh No.166,Medan,Wiraswasta,Kawin
+320161000167,Penduduk_167,84,Perempuan,Jl. Contoh No.167,Denpasar,Dokter,Cerai Hidup
+320134000168,Penduduk_168,30,Perempuan,Jl. Contoh No.168,Yogyakarta,Pelajar,Cerai Mati
+320161000169,Penduduk_169,62,Perempuan,Jl. Contoh No.169,Jakarta,Pengangguran,Belum Kawin
+320159000170,Penduduk_170,75,Perempuan,Jl. Contoh No.170,Yogyakarta,Wiraswasta,Cerai Mati
+320139000171,Penduduk_171,89,Perempuan,Jl. Contoh No.171,Jakarta,PNS,Belum Kawin
+320128000172,Penduduk_172,62,Perempuan,Jl. Contoh No.172,Bandung,Wiraswasta,Belum Kawin
+320105000173,Penduduk_173,1,Perempuan,Jl. Contoh No.173,Yogyakarta,Pengangguran,Cerai Mati
+320198000174,Penduduk_174,27,Laki-laki,Jl. Contoh No.174,Medan,Pengangguran,Cerai Mati
+320193000175,Penduduk_175,62,Perempuan,Jl. Contoh No.175,Jakarta,Pengangguran,Belum Kawin
+320127000176,Penduduk_176,77,Laki-laki,Jl. Contoh No.176,Surabaya,PNS,Kawin
+320178000177,Penduduk_177,3,Perempuan,Jl. Contoh No.177,Medan,Mahasiswa,Kawin
+320159000178,Penduduk_178,70,Perempuan,Jl. Contoh No.178,Surabaya,Dokter,Cerai Mati
+320153000179,Penduduk_179,72,Laki-laki,Jl. Contoh No.179,Yogyakarta,Pelajar,Cerai Hidup
+320197000180,Penduduk_180,27,Perempuan,Jl. Contoh No.180,Surabaya,Wiraswasta,Kawin
+320153000181,Penduduk_181,9,Perempuan,Jl. Contoh No.181,Jakarta,PNS,Cerai Mati
+320111000182,Penduduk_182,62,Laki-laki,Jl. Contoh No.182,Medan,Petani,Kawin
+320167000183,Penduduk_183,37,Perempuan,Jl. Contoh No.183,Denpasar,Pelajar,Cerai Hidup
+320154000184,Penduduk_184,51,Perempuan,Jl. Contoh No.184,Makassar,Mahasiswa,Cerai Mati
+320198000185,Penduduk_185,44,Perempuan,Jl. Contoh No.185,Jakarta,PNS,Cerai Hidup
+320139000186,Penduduk_186,24,Laki-laki,Jl. Contoh No.186,Jakarta,Guru,Cerai Mati
+320145000187,Penduduk_187,79,Perempuan,Jl. Contoh No.187,Denpasar,Guru,Cerai Hidup
+320185000188,Penduduk_188,59,Perempuan,Jl. Contoh No.188,Medan,Dokter,Kawin
+320160000189,Penduduk_189,32,Perempuan,Jl. Contoh No.189,Medan,Dokter,Kawin
+320121000190,Penduduk_190,88,Perempuan,Jl. Contoh No.190,Yogyakarta,Mahasiswa,Cerai Hidup
+320123000191,Penduduk_191,52,Laki-laki,Jl. Contoh No.191,Surabaya,Mahasiswa,Cerai Hidup
+320159000192,Penduduk_192,62,Laki-laki,Jl. Contoh No.192,Yogyakarta,Dokter,Cerai Hidup
+320145000193,Penduduk_193,58,Perempuan,Jl. Contoh No.193,Denpasar,Wiraswasta,Cerai Mati
+320118000194,Penduduk_194,52,Perempuan,Jl. Contoh No.194,Yogyakarta,Wiraswasta,Kawin
+320103000195,Penduduk_195,12,Laki-laki,Jl. Contoh No.195,Denpasar,PNS,Cerai Mati
+320184000196,Penduduk_196,39,Laki-laki,Jl. Contoh No.196,Medan,Petani,Kawin
+320107000197,Penduduk_197,2,Perempuan,Jl. Contoh No.197,Surabaya,PNS,Belum Kawin
+320114000198,Penduduk_198,3,Laki-laki,Jl. Contoh No.198,Yogyakarta,Petani,Cerai Mati
+320177000199,Penduduk_199,56,Perempuan,Jl. Contoh No.199,Jakarta,Mahasiswa,Kawin
+320167000200,Penduduk_200,81,Laki-laki,Jl. Contoh No.200,Bandung,Pelajar,Kawin
+320184000201,Penduduk_201,59,Laki-laki,Jl. Contoh No.201,Makassar,PNS,Cerai Mati
+320122000202,Penduduk_202,2,Laki-laki,Jl. Contoh No.202,Jakarta,PNS,Cerai Mati
+320121000203,Penduduk_203,2,Laki-laki,Jl. Contoh No.203,Medan,Petani,Kawin
+320101000204,Penduduk_204,54,Perempuan,Jl. Contoh No.204,Makassar,Pengangguran,Cerai Mati
+320177000205,Penduduk_205,87,Laki-laki,Jl. Contoh No.205,Bandung,Mahasiswa,Cerai Hidup
+320126000206,Penduduk_206,1,Laki-laki,Jl. Contoh No.206,Bandung,Mahasiswa,Cerai Mati
+320167000207,Penduduk_207,19,Perempuan,Jl. Contoh No.207,Surabaya,Guru,Cerai Mati
+320109000208,Penduduk_208,2,Laki-laki,Jl. Contoh No.208,Makassar,Pengangguran,Cerai Mati
+320188000209,Penduduk_209,53,Laki-laki,Jl. Contoh No.209,Surabaya,Petani,Kawin
+320145000210,Penduduk_210,44,Perempuan,Jl. Contoh No.210,Jakarta,Mahasiswa,Cerai Hidup
+320145000211,Penduduk_211,32,Laki-laki,Jl. Contoh No.211,Denpasar,Pengangguran,Belum Kawin
+320132000212,Penduduk_212,70,Perempuan,Jl. Contoh No.212,Denpasar,Dokter,Belum Kawin
+320120000213,Penduduk_213,32,Perempuan,Jl. Contoh No.213,Denpasar,Pengangguran,Cerai Hidup
+320111000214,Penduduk_214,68,Perempuan,Jl. Contoh No.214,Makassar,Wiraswasta,Cerai Hidup
+320118000215,Penduduk_215,55,Perempuan,Jl. Contoh No.215,Denpasar,Guru,Cerai Hidup
+320183000216,Penduduk_216,75,Laki-laki,Jl. Contoh No.216,Jakarta,Dokter,Kawin
+320181000217,Penduduk_217,56,Perempuan,Jl. Contoh No.217,Surabaya,Pelajar,Belum Kawin
+320180000218,Penduduk_218,17,Laki-laki,Jl. Contoh No.218,Makassar,PNS,Cerai Hidup
+320108000219,Penduduk_219,38,Laki-laki,Jl. Contoh No.219,Surabaya,Guru,Kawin
+320138000220,Penduduk_220,24,Laki-laki,Jl. Contoh No.220,Makassar,Pelajar,Belum Kawin
+320184000221,Penduduk_221,69,Laki-laki,Jl. Contoh No.221,Surabaya,PNS,Cerai Mati
+320124000222,Penduduk_222,70,Laki-laki,Jl. Contoh No.222,Bandung,Wiraswasta,Kawin
+320172000223,Penduduk_223,86,Laki-laki,Jl. Contoh No.223,Surabaya,Pengangguran,Belum Kawin
+320139000224,Penduduk_224,11,Laki-laki,Jl. Contoh No.224,Denpasar,Mahasiswa,Kawin
+320136000225,Penduduk_225,16,Laki-laki,Jl. Contoh No.225,Bandung,Dokter,Belum Kawin
+320185000226,Penduduk_226,73,Laki-laki,Jl. Contoh No.226,Surabaya,Petani,Belum Kawin
+320133000227,Penduduk_227,59,Laki-laki,Jl. Contoh No.227,Makassar,Dokter,Cerai Mati
+320175000228,Penduduk_228,70,Perempuan,Jl. Contoh No.228,Makassar,Wiraswasta,Kawin
+320140000229,Penduduk_229,80,Perempuan,Jl. Contoh No.229,Makassar,Pelajar,Cerai Hidup
+320128000230,Penduduk_230,3,Perempuan,Jl. Contoh No.230,Medan,Petani,Cerai Mati
+320101000231,Penduduk_231,20,Laki-laki,Jl. Contoh No.231,Jakarta,Mahasiswa,Cerai Mati
+320101000232,Penduduk_232,59,Perempuan,Jl. Contoh No.232,Makassar,Wiraswasta,Belum Kawin
+320193000233,Penduduk_233,36,Perempuan,Jl. Contoh No.233,Bandung,Petani,Cerai Hidup
+320158000234,Penduduk_234,19,Perempuan,Jl. Contoh No.234,Makassar,Wiraswasta,Kawin
+320113000235,Penduduk_235,67,Laki-laki,Jl. Contoh No.235,Medan,Pengangguran,Cerai Hidup
+320128000236,Penduduk_236,19,Laki-laki,Jl. Contoh No.236,Denpasar,Wiraswasta,Cerai Hidup
+320138000237,Penduduk_237,20,Laki-laki,Jl. Contoh No.237,Bandung,Mahasiswa,Cerai Hidup
+320149000238,Penduduk_238,71,Laki-laki,Jl. Contoh No.238,Medan,Guru,Cerai Hidup
+320178000239,Penduduk_239,52,Perempuan,Jl. Contoh No.239,Denpasar,PNS,Cerai Hidup
+320135000240,Penduduk_240,33,Perempuan,Jl. Contoh No.240,Yogyakarta,Petani,Belum Kawin
+320188000241,Penduduk_241,40,Perempuan,Jl. Contoh No.241,Yogyakarta,Pengangguran,Belum Kawin
+320137000242,Penduduk_242,39,Perempuan,Jl. Contoh No.242,Bandung,Mahasiswa,Cerai Mati
+320173000243,Penduduk_243,82,Laki-laki,Jl. Contoh No.243,Surabaya,Wiraswasta,Belum Kawin
+320143000244,Penduduk_244,1,Laki-laki,Jl. Contoh No.244,Jakarta,Pengangguran,Cerai Mati
+320109000245,Penduduk_245,11,Laki-laki,Jl. Contoh No.245,Jakarta,Mahasiswa,Cerai Mati
+320158000246,Penduduk_246,57,Perempuan,Jl. Contoh No.246,Medan,Guru,Kawin
+320132000247,Penduduk_247,89,Laki-laki,Jl. Contoh No.247,Denpasar,Pengangguran,Cerai Hidup
+320167000248,Penduduk_248,50,Laki-laki,Jl. Contoh No.248,Jakarta,Pengangguran,Belum Kawin
+320191000249,Penduduk_249,23,Perempuan,Jl. Contoh No.249,Denpasar,PNS,Kawin
+320104000250,Penduduk_250,31,Perempuan,Jl. Contoh No.250,Denpasar,Dokter,Belum Kawin
+320117000251,Penduduk_251,42,Laki-laki,Jl. Contoh No.251,Medan,Petani,Cerai Mati
+320180000252,Penduduk_252,7,Laki-laki,Jl. Contoh No.252,Medan,PNS,Belum Kawin
+320157000253,Penduduk_253,16,Laki-laki,Jl. Contoh No.253,Medan,Pelajar,Cerai Hidup
+320158000254,Penduduk_254,60,Laki-laki,Jl. Contoh No.254,Jakarta,Petani,Cerai Mati
+320174000255,Penduduk_255,2,Laki-laki,Jl. Contoh No.255,Yogyakarta,PNS,Cerai Mati
+320122000256,Penduduk_256,1,Laki-laki,Jl. Contoh No.256,Medan,Wiraswasta,Kawin
+320108000257,Penduduk_257,48,Perempuan,Jl. Contoh No.257,Jakarta,Petani,Cerai Hidup
+320152000258,Penduduk_258,12,Perempuan,Jl. Contoh No.258,Medan,Petani,Cerai Mati
+320158000259,Penduduk_259,69,Perempuan,Jl. Contoh No.259,Makassar,Mahasiswa,Cerai Hidup
+320137000260,Penduduk_260,37,Laki-laki,Jl. Contoh No.260,Denpasar,Wiraswasta,Belum Kawin
+320184000261,Penduduk_261,32,Perempuan,Jl. Contoh No.261,Medan,Pelajar,Cerai Hidup
+320183000262,Penduduk_262,9,Laki-laki,Jl. Contoh No.262,Bandung,Dokter,Cerai Mati
+320195000263,Penduduk_263,19,Laki-laki,Jl. Contoh No.263,Denpasar,Pengangguran,Kawin
+320149000264,Penduduk_264,48,Perempuan,Jl. Contoh No.264,Denpasar,Guru,Cerai Mati
+320131000265,Penduduk_265,80,Laki-laki,Jl. Contoh No.265,Medan,PNS,Cerai Hidup
+320165000266,Penduduk_266,3,Laki-laki,Jl. Contoh No.266,Yogyakarta,Mahasiswa,Cerai Hidup
+320154000267,Penduduk_267,20,Perempuan,Jl. Contoh No.267,Surabaya,PNS,Cerai Mati
+320177000268,Penduduk_268,24,Perempuan,Jl. Contoh No.268,Yogyakarta,Pelajar,Cerai Hidup
+320150000269,Penduduk_269,54,Perempuan,Jl. Contoh No.269,Medan,Pengangguran,Belum Kawin
+320122000270,Penduduk_270,33,Laki-laki,Jl. Contoh No.270,Denpasar,Pelajar,Cerai Mati
+320116000271,Penduduk_271,24,Perempuan,Jl. Contoh No.271,Bandung,Petani,Kawin
+320108000272,Penduduk_272,75,Perempuan,Jl. Contoh No.272,Denpasar,Guru,Cerai Mati
+320172000273,Penduduk_273,72,Laki-laki,Jl. Contoh No.273,Yogyakarta,Pelajar,Belum Kawin
+320174000274,Penduduk_274,36,Perempuan,Jl. Contoh No.274,Bandung,PNS,Belum Kawin
+320163000275,Penduduk_275,38,Perempuan,Jl. Contoh No.275,Jakarta,Wiraswasta,Belum Kawin
+320184000276,Penduduk_276,84,Perempuan,Jl. Contoh No.276,Makassar,Wiraswasta,Belum Kawin
+320123000277,Penduduk_277,89,Laki-laki,Jl. Contoh No.277,Denpasar,Petani,Belum Kawin
+320121000278,Penduduk_278,25,Laki-laki,Jl. Contoh No.278,Medan,Dokter,Kawin
+320122000279,Penduduk_279,18,Laki-laki,Jl. Contoh No.279,Jakarta,PNS,Cerai Hidup
+320115000280,Penduduk_280,82,Laki-laki,Jl. Contoh No.280,Makassar,PNS,Belum Kawin
+320198000281,Penduduk_281,66,Perempuan,Jl. Contoh No.281,Medan,Pelajar,Belum Kawin
+320123000282,Penduduk_282,54,Laki-laki,Jl. Contoh No.282,Surabaya,Guru,Cerai Mati
+320125000283,Penduduk_283,35,Laki-laki,Jl. Contoh No.283,Medan,PNS,Kawin
+320187000284,Penduduk_284,80,Perempuan,Jl. Contoh No.284,Bandung,Mahasiswa,Kawin
+320148000285,Penduduk_285,61,Perempuan,Jl. Contoh No.285,Bandung,Dokter,Cerai Hidup
+320107000286,Penduduk_286,41,Perempuan,Jl. Contoh No.286,Surabaya,Pelajar,Kawin
+320133000287,Penduduk_287,33,Laki-laki,Jl. Contoh No.287,Jakarta,Mahasiswa,Cerai Mati
+320104000288,Penduduk_288,68,Laki-laki,Jl. Contoh No.288,Makassar,Petani,Cerai Mati
+320128000289,Penduduk_289,33,Laki-laki,Jl. Contoh No.289,Medan,Wiraswasta,Cerai Hidup
+320137000290,Penduduk_290,14,Perempuan,Jl. Contoh No.290,Bandung,Petani,Cerai Mati
+320108000291,Penduduk_291,21,Perempuan,Jl. Contoh No.291,Jakarta,Wiraswasta,Belum Kawin
+320167000292,Penduduk_292,48,Laki-laki,Jl. Contoh No.292,Surabaya,Petani,Belum Kawin
+320102000293,Penduduk_293,20,Perempuan,Jl. Contoh No.293,Yogyakarta,PNS,Cerai Mati
+320127000294,Penduduk_294,8,Perempuan,Jl. Contoh No.294,Denpasar,Mahasiswa,Cerai Hidup
+320188000295,Penduduk_295,7,Perempuan,Jl. Contoh No.295,Yogyakarta,Wiraswasta,Kawin
+320105000296,Penduduk_296,67,Laki-laki,Jl. Contoh No.296,Yogyakarta,Pelajar,Cerai Hidup
+320164000297,Penduduk_297,17,Perempuan,Jl. Contoh No.297,Bandung,Mahasiswa,Kawin
+320165000298,Penduduk_298,33,Perempuan,Jl. Contoh No.298,Surabaya,Pelajar,Cerai Mati
+320154000299,Penduduk_299,48,Laki-laki,Jl. Contoh No.299,Medan,Mahasiswa,Cerai Mati
+320145000300,Penduduk_300,76,Laki-laki,Jl. Contoh No.300,Yogyakarta,Mahasiswa,Belum Kawin
+320175000301,Penduduk_301,59,Perempuan,Jl. Contoh No.301,Yogyakarta,Petani,Kawin
+320134000302,Penduduk_302,86,Perempuan,Jl. Contoh No.302,Makassar,Wiraswasta,Cerai Hidup
+320155000303,Penduduk_303,22,Laki-laki,Jl. Contoh No.303,Bandung,Wiraswasta,Cerai Mati
+320141000304,Penduduk_304,30,Laki-laki,Jl. Contoh No.304,Bandung,Guru,Cerai Hidup
+320181000305,Penduduk_305,38,Perempuan,Jl. Contoh No.305,Medan,Mahasiswa,Belum Kawin
+320125000306,Penduduk_306,51,Perempuan,Jl. Contoh No.306,Denpasar,PNS,Kawin
+320188000307,Penduduk_307,54,Perempuan,Jl. Contoh No.307,Jakarta,PNS,Kawin
+320111000308,Penduduk_308,8,Perempuan,Jl. Contoh No.308,Makassar,Pelajar,Cerai Mati
+320116000309,Penduduk_309,27,Laki-laki,Jl. Contoh No.309,Bandung,Pelajar,Kawin
+320159000310,Penduduk_310,27,Perempuan,Jl. Contoh No.310,Makassar,Petani,Cerai Mati
+320160000311,Penduduk_311,21,Perempuan,Jl. Contoh No.311,Bandung,Mahasiswa,Belum Kawin
+320139000312,Penduduk_312,30,Laki-laki,Jl. Contoh No.312,Makassar,Pelajar,Kawin
+320181000313,Penduduk_313,28,Perempuan,Jl. Contoh No.313,Surabaya,Pelajar,Cerai Mati
+320120000314,Penduduk_314,64,Laki-laki,Jl. Contoh No.314,Yogyakarta,Dokter,Cerai Hidup
+320180000315,Penduduk_315,69,Perempuan,Jl. Contoh No.315,Bandung,Mahasiswa,Cerai Mati
+320126000316,Penduduk_316,61,Perempuan,Jl. Contoh No.316,Makassar,Pengangguran,Kawin
+320154000317,Penduduk_317,48,Laki-laki,Jl. Contoh No.317,Jakarta,Petani,Belum Kawin
+320152000318,Penduduk_318,19,Laki-laki,Jl. Contoh No.318,Surabaya,Pelajar,Kawin
+320110000319,Penduduk_319,4,Perempuan,Jl. Contoh No.319,Surabaya,Petani,Kawin
+320135000320,Penduduk_320,35,Perempuan,Jl. Contoh No.320,Jakarta,Wiraswasta,Cerai Mati
+320158000321,Penduduk_321,64,Perempuan,Jl. Contoh No.321,Makassar,Petani,Cerai Hidup
+320111000322,Penduduk_322,49,Laki-laki,Jl. Contoh No.322,Medan,Pengangguran,Kawin
+320158000323,Penduduk_323,17,Perempuan,Jl. Contoh No.323,Jakarta,PNS,Cerai Hidup
+320188000324,Penduduk_324,44,Laki-laki,Jl. Contoh No.324,Makassar,Pengangguran,Cerai Mati
+320128000325,Penduduk_325,30,Laki-laki,Jl. Contoh No.325,Jakarta,PNS,Cerai Hidup
+320165000326,Penduduk_326,46,Perempuan,Jl. Contoh No.326,Jakarta,Petani,Cerai Mati
+320189000327,Penduduk_327,6,Laki-laki,Jl. Contoh No.327,Bandung,PNS,Belum Kawin
+320111000328,Penduduk_328,37,Perempuan,Jl. Contoh No.328,Makassar,Wiraswasta,Cerai Hidup
+320109000329,Penduduk_329,24,Perempuan,Jl. Contoh No.329,Medan,Mahasiswa,Cerai Hidup
+320138000330,Penduduk_330,46,Perempuan,Jl. Contoh No.330,Yogyakarta,PNS,Belum Kawin
+320156000331,Penduduk_331,53,Perempuan,Jl. Contoh No.331,Bandung,PNS,Cerai Hidup
+320108000332,Penduduk_332,60,Perempuan,Jl. Contoh No.332,Jakarta,Petani,Belum Kawin
+320157000333,Penduduk_333,63,Laki-laki,Jl. Contoh No.333,Yogyakarta,Wiraswasta,Kawin
+320180000334,Penduduk_334,85,Laki-laki,Jl. Contoh No.334,Denpasar,Guru,Cerai Mati
+320173000335,Penduduk_335,32,Perempuan,Jl. Contoh No.335,Yogyakarta,Guru,Belum Kawin
+320181000336,Penduduk_336,87,Perempuan,Jl. Contoh No.336,Jakarta,Guru,Cerai Hidup
+320149000337,Penduduk_337,33,Laki-laki,Jl. Contoh No.337,Jakarta,Guru,Belum Kawin
+320110000338,Penduduk_338,67,Laki-laki,Jl. Contoh No.338,Makassar,Mahasiswa,Cerai Hidup
+320107000339,Penduduk_339,18,Laki-laki,Jl. Contoh No.339,Makassar,Pengangguran,Kawin
+320177000340,Penduduk_340,25,Laki-laki,Jl. Contoh No.340,Bandung,Petani,Belum Kawin
+320148000341,Penduduk_341,54,Perempuan,Jl. Contoh No.341,Medan,Petani,Kawin
+320135000342,Penduduk_342,58,Perempuan,Jl. Contoh No.342,Bandung,Dokter,Cerai Mati
+320130000343,Penduduk_343,67,Laki-laki,Jl. Contoh No.343,Surabaya,Wiraswasta,Cerai Hidup
+320121000344,Penduduk_344,46,Perempuan,Jl. Contoh No.344,Jakarta,Guru,Cerai Hidup
+320195000345,Penduduk_345,24,Laki-laki,Jl. Contoh No.345,Yogyakarta,Mahasiswa,Kawin
+320130000346,Penduduk_346,32,Perempuan,Jl. Contoh No.346,Denpasar,Wiraswasta,Cerai Mati
+320110000347,Penduduk_347,47,Laki-laki,Jl. Contoh No.347,Jakarta,Guru,Belum Kawin
+320199000348,Penduduk_348,86,Perempuan,Jl. Contoh No.348,Jakarta,Mahasiswa,Belum Kawin
+320176000349,Penduduk_349,23,Laki-laki,Jl. Contoh No.349,Bandung,Wiraswasta,Cerai Hidup
+320185000350,Penduduk_350,66,Laki-laki,Jl. Contoh No.350,Denpasar,Petani,Kawin
+320154000351,Penduduk_351,27,Perempuan,Jl. Contoh No.351,Denpasar,Petani,Kawin
+320172000352,Penduduk_352,2,Laki-laki,Jl. Contoh No.352,Denpasar,Pengangguran,Belum Kawin
+320151000353,Penduduk_353,17,Perempuan,Jl. Contoh No.353,Bandung,Pelajar,Cerai Mati
+320188000354,Penduduk_354,33,Perempuan,Jl. Contoh No.354,Jakarta,Pengangguran,Cerai Mati
+320148000355,Penduduk_355,9,Laki-laki,Jl. Contoh No.355,Bandung,PNS,Belum Kawin
+320107000356,Penduduk_356,43,Perempuan,Jl. Contoh No.356,Makassar,Pengangguran,Belum Kawin
+320151000357,Penduduk_357,48,Perempuan,Jl. Contoh No.357,Makassar,Guru,Kawin
+320142000358,Penduduk_358,39,Perempuan,Jl. Contoh No.358,Bandung,Dokter,Cerai Mati
+320162000359,Penduduk_359,42,Perempuan,Jl. Contoh No.359,Denpasar,Wiraswasta,Belum Kawin
+320145000360,Penduduk_360,26,Perempuan,Jl. Contoh No.360,Jakarta,Dokter,Belum Kawin
+320121000361,Penduduk_361,50,Laki-laki,Jl. Contoh No.361,Bandung,Pelajar,Cerai Hidup
+320151000362,Penduduk_362,25,Perempuan,Jl. Contoh No.362,Bandung,PNS,Belum Kawin
+320101000363,Penduduk_363,24,Perempuan,Jl. Contoh No.363,Bandung,Wiraswasta,Belum Kawin
+320188000364,Penduduk_364,13,Perempuan,Jl. Contoh No.364,Surabaya,Mahasiswa,Cerai Mati
+320126000365,Penduduk_365,60,Perempuan,Jl. Contoh No.365,Makassar,Guru,Kawin
+320159000366,Penduduk_366,7,Perempuan,Jl. Contoh No.366,Yogyakarta,PNS,Cerai Mati
+320176000367,Penduduk_367,57,Laki-laki,Jl. Contoh No.367,Denpasar,Petani,Kawin
+320116000368,Penduduk_368,36,Perempuan,Jl. Contoh No.368,Medan,Pelajar,Cerai Hidup
+320161000369,Penduduk_369,45,Laki-laki,Jl. Contoh No.369,Yogyakarta,PNS,Belum Kawin
+320150000370,Penduduk_370,20,Laki-laki,Jl. Contoh No.370,Denpasar,Guru,Cerai Hidup
+320127000371,Penduduk_371,65,Laki-laki,Jl. Contoh No.371,Medan,Pengangguran,Kawin
+320167000372,Penduduk_372,8,Laki-laki,Jl. Contoh No.372,Surabaya,PNS,Cerai Mati
+320116000373,Penduduk_373,16,Perempuan,Jl. Contoh No.373,Bandung,Pengangguran,Cerai Mati
+320183000374,Penduduk_374,14,Laki-laki,Jl. Contoh No.374,Surabaya,Guru,Cerai Hidup
+320199000375,Penduduk_375,76,Laki-laki,Jl. Contoh No.375,Surabaya,Petani,Kawin
+320122000376,Penduduk_376,87,Perempuan,Jl. Contoh No.376,Yogyakarta,Wiraswasta,Cerai Hidup
+320139000377,Penduduk_377,15,Perempuan,Jl. Contoh No.377,Jakarta,Mahasiswa,Cerai Hidup
+320126000378,Penduduk_378,66,Perempuan,Jl. Contoh No.378,Yogyakarta,Petani,Belum Kawin
+320184000379,Penduduk_379,32,Laki-laki,Jl. Contoh No.379,Makassar,Pengangguran,Cerai Hidup
+320171000380,Penduduk_380,87,Perempuan,Jl. Contoh No.380,Medan,Pengangguran,Belum Kawin
+320195000381,Penduduk_381,63,Perempuan,Jl. Contoh No.381,Bandung,Mahasiswa,Belum Kawin
+320135000382,Penduduk_382,86,Laki-laki,Jl. Contoh No.382,Yogyakarta,Wiraswasta,Cerai Mati
+320197000383,Penduduk_383,51,Perempuan,Jl. Contoh No.383,Medan,PNS,Belum Kawin
+320113000384,Penduduk_384,25,Perempuan,Jl. Contoh No.384,Denpasar,Mahasiswa,Belum Kawin
+320188000385,Penduduk_385,58,Perempuan,Jl. Contoh No.385,Medan,Pelajar,Cerai Mati
+320187000386,Penduduk_386,63,Perempuan,Jl. Contoh No.386,Denpasar,Pelajar,Cerai Hidup
+320132000387,Penduduk_387,62,Laki-laki,Jl. Contoh No.387,Yogyakarta,Guru,Kawin
+320197000388,Penduduk_388,22,Perempuan,Jl. Contoh No.388,Makassar,Petani,Kawin
+320104000389,Penduduk_389,58,Perempuan,Jl. Contoh No.389,Yogyakarta,Pengangguran,Kawin
+320193000390,Penduduk_390,58,Laki-laki,Jl. Contoh No.390,Denpasar,Wiraswasta,Cerai Hidup
+320107000391,Penduduk_391,86,Perempuan,Jl. Contoh No.391,Medan,Guru,Belum Kawin
+320184000392,Penduduk_392,49,Laki-laki,Jl. Contoh No.392,Medan,Petani,Kawin
+320107000393,Penduduk_393,52,Perempuan,Jl. Contoh No.393,Denpasar,Petani,Cerai Hidup
+320175000394,Penduduk_394,42,Laki-laki,Jl. Contoh No.394,Surabaya,Guru,Belum Kawin
+320127000395,Penduduk_395,70,Laki-laki,Jl. Contoh No.395,Makassar,Dokter,Cerai Mati
+320177000396,Penduduk_396,15,Laki-laki,Jl. Contoh No.396,Jakarta,Petani,Kawin
+320119000397,Penduduk_397,54,Laki-laki,Jl. Contoh No.397,Bandung,Dokter,Belum Kawin
+320110000398,Penduduk_398,60,Perempuan,Jl. Contoh No.398,Medan,Pelajar,Kawin
+320131000399,Penduduk_399,8,Laki-laki,Jl. Contoh No.399,Bandung,Pelajar,Kawin
+320122000400,Penduduk_400,53,Perempuan,Jl. Contoh No.400,Jakarta,Petani,Kawin
+320136000401,Penduduk_401,60,Laki-laki,Jl. Contoh No.401,Yogyakarta,Pelajar,Belum Kawin
+320144000402,Penduduk_402,5,Laki-laki,Jl. Contoh No.402,Bandung,Wiraswasta,Cerai Hidup
+320141000403,Penduduk_403,68,Laki-laki,Jl. Contoh No.403,Jakarta,Dokter,Belum Kawin
+320189000404,Penduduk_404,6,Perempuan,Jl. Contoh No.404,Denpasar,Dokter,Kawin
+320104000405,Penduduk_405,47,Laki-laki,Jl. Contoh No.405,Surabaya,Petani,Belum Kawin
+320176000406,Penduduk_406,55,Perempuan,Jl. Contoh No.406,Medan,Pelajar,Cerai Mati
+320196000407,Penduduk_407,40,Perempuan,Jl. Contoh No.407,Jakarta,Mahasiswa,Cerai Hidup
+320195000408,Penduduk_408,52,Perempuan,Jl. Contoh No.408,Bandung,Pengangguran,Belum Kawin
+320114000409,Penduduk_409,16,Perempuan,Jl. Contoh No.409,Medan,Guru,Cerai Mati
+320122000410,Penduduk_410,13,Perempuan,Jl. Contoh No.410,Surabaya,Guru,Cerai Hidup
+320190000411,Penduduk_411,30,Perempuan,Jl. Contoh No.411,Denpasar,Dokter,Cerai Mati
+320185000412,Penduduk_412,19,Perempuan,Jl. Contoh No.412,Yogyakarta,Petani,Cerai Hidup
+320135000413,Penduduk_413,17,Perempuan,Jl. Contoh No.413,Medan,Petani,Belum Kawin
+320164000414,Penduduk_414,63,Perempuan,Jl. Contoh No.414,Yogyakarta,Wiraswasta,Cerai Mati
+320102000415,Penduduk_415,19,Laki-laki,Jl. Contoh No.415,Jakarta,PNS,Kawin
+320152000416,Penduduk_416,58,Laki-laki,Jl. Contoh No.416,Surabaya,Pengangguran,Cerai Mati
+320128000417,Penduduk_417,55,Laki-laki,Jl. Contoh No.417,Bandung,PNS,Cerai Hidup
+320116000418,Penduduk_418,62,Laki-laki,Jl. Contoh No.418,Surabaya,Dokter,Belum Kawin
+320134000419,Penduduk_419,23,Laki-laki,Jl. Contoh No.419,Surabaya,Guru,Cerai Hidup
+320182000420,Penduduk_420,9,Perempuan,Jl. Contoh No.420,Makassar,Wiraswasta,Cerai Mati
+320192000421,Penduduk_421,12,Perempuan,Jl. Contoh No.421,Surabaya,Wiraswasta,Cerai Mati
+320111000422,Penduduk_422,1,Perempuan,Jl. Contoh No.422,Surabaya,Wiraswasta,Kawin
+320134000423,Penduduk_423,58,Perempuan,Jl. Contoh No.423,Medan,Dokter,Belum Kawin
+320108000424,Penduduk_424,1,Perempuan,Jl. Contoh No.424,Bandung,PNS,Belum Kawin
+320185000425,Penduduk_425,34,Perempuan,Jl. Contoh No.425,Medan,Guru,Cerai Mati
+320153000426,Penduduk_426,48,Perempuan,Jl. Contoh No.426,Medan,Wiraswasta,Belum Kawin
+320134000427,Penduduk_427,89,Laki-laki,Jl. Contoh No.427,Jakarta,Guru,Kawin
+320195000428,Penduduk_428,1,Laki-laki,Jl. Contoh No.428,Medan,Pelajar,Cerai Hidup
+320149000429,Penduduk_429,16,Laki-laki,Jl. Contoh No.429,Makassar,Petani,Belum Kawin
+320178000430,Penduduk_430,61,Laki-laki,Jl. Contoh No.430,Makassar,Petani,Cerai Mati
+320174000431,Penduduk_431,64,Perempuan,Jl. Contoh No.431,Yogyakarta,Guru,Cerai Hidup
+320107000432,Penduduk_432,63,Perempuan,Jl. Contoh No.432,Jakarta,Mahasiswa,Cerai Hidup
+320155000433,Penduduk_433,69,Perempuan,Jl. Contoh No.433,Yogyakarta,Mahasiswa,Kawin
+320194000434,Penduduk_434,22,Laki-laki,Jl. Contoh No.434,Yogyakarta,Dokter,Cerai Mati
+320166000435,Penduduk_435,67,Perempuan,Jl. Contoh No.435,Denpasar,Dokter,Belum Kawin
+320150000436,Penduduk_436,76,Perempuan,Jl. Contoh No.436,Bandung,Petani,Cerai Mati
+320140000437,Penduduk_437,26,Perempuan,Jl. Contoh No.437,Bandung,Pelajar,Cerai Hidup
+320138000438,Penduduk_438,16,Laki-laki,Jl. Contoh No.438,Medan,Pengangguran,Cerai Mati
+320199000439,Penduduk_439,51,Perempuan,Jl. Contoh No.439,Medan,PNS,Belum Kawin
+320194000440,Penduduk_440,86,Laki-laki,Jl. Contoh No.440,Denpasar,PNS,Belum Kawin
+320175000441,Penduduk_441,57,Laki-laki,Jl. Contoh No.441,Medan,Dokter,Kawin
+320108000442,Penduduk_442,29,Laki-laki,Jl. Contoh No.442,Bandung,Pelajar,Belum Kawin
+320105000443,Penduduk_443,78,Laki-laki,Jl. Contoh No.443,Yogyakarta,Dokter,Belum Kawin
+320125000444,Penduduk_444,69,Perempuan,Jl. Contoh No.444,Surabaya,Pengangguran,Cerai Mati
+320192000445,Penduduk_445,47,Laki-laki,Jl. Contoh No.445,Makassar,PNS,Cerai Mati
+320109000446,Penduduk_446,62,Laki-laki,Jl. Contoh No.446,Surabaya,Guru,Cerai Hidup
+320190000447,Penduduk_447,69,Perempuan,Jl. Contoh No.447,Surabaya,Dokter,Kawin
+320152000448,Penduduk_448,76,Perempuan,Jl. Contoh No.448,Bandung,Wiraswasta,Cerai Mati
+320166000449,Penduduk_449,16,Laki-laki,Jl. Contoh No.449,Surabaya,Guru,Belum Kawin
+320192000450,Penduduk_450,48,Perempuan,Jl. Contoh No.450,Denpasar,Pengangguran,Cerai Hidup
+320108000451,Penduduk_451,85,Laki-laki,Jl. Contoh No.451,Jakarta,Pengangguran,Cerai Mati
+320180000452,Penduduk_452,39,Laki-laki,Jl. Contoh No.452,Medan,Dokter,Kawin
+320191000453,Penduduk_453,33,Laki-laki,Jl. Contoh No.453,Jakarta,Petani,Kawin
+320197000454,Penduduk_454,23,Laki-laki,Jl. Contoh No.454,Yogyakarta,Dokter,Cerai Hidup
+320148000455,Penduduk_455,10,Perempuan,Jl. Contoh No.455,Makassar,Petani,Cerai Hidup
+320187000456,Penduduk_456,69,Laki-laki,Jl. Contoh No.456,Medan,Pengangguran,Cerai Hidup
+320151000457,Penduduk_457,34,Perempuan,Jl. Contoh No.457,Surabaya,Pelajar,Cerai Hidup
+320162000458,Penduduk_458,52,Perempuan,Jl. Contoh No.458,Makassar,Pengangguran,Cerai Hidup
+320115000459,Penduduk_459,10,Perempuan,Jl. Contoh No.459,Medan,PNS,Belum Kawin
+320167000460,Penduduk_460,19,Perempuan,Jl. Contoh No.460,Denpasar,Guru,Belum Kawin
+320168000461,Penduduk_461,58,Laki-laki,Jl. Contoh No.461,Denpasar,Guru,Cerai Mati
+320193000462,Penduduk_462,1,Perempuan,Jl. Contoh No.462,Denpasar,Mahasiswa,Kawin
+320130000463,Penduduk_463,69,Laki-laki,Jl. Contoh No.463,Denpasar,Mahasiswa,Belum Kawin
+320162000464,Penduduk_464,4,Perempuan,Jl. Contoh No.464,Surabaya,Pengangguran,Belum Kawin
+320137000465,Penduduk_465,16,Perempuan,Jl. Contoh No.465,Jakarta,PNS,Belum Kawin
+320189000466,Penduduk_466,24,Laki-laki,Jl. Contoh No.466,Medan,Mahasiswa,Cerai Mati
+320187000467,Penduduk_467,80,Laki-laki,Jl. Contoh No.467,Surabaya,Guru,Cerai Hidup
+320176000468,Penduduk_468,2,Laki-laki,Jl. Contoh No.468,Denpasar,Dokter,Cerai Mati
+320173000469,Penduduk_469,32,Perempuan,Jl. Contoh No.469,Yogyakarta,Pelajar,Kawin
+320196000470,Penduduk_470,84,Perempuan,Jl. Contoh No.470,Jakarta,Pelajar,Kawin
+320188000471,Penduduk_471,24,Laki-laki,Jl. Contoh No.471,Yogyakarta,PNS,Kawin
+320121000472,Penduduk_472,12,Laki-laki,Jl. Contoh No.472,Makassar,Pengangguran,Kawin
+320129000473,Penduduk_473,50,Laki-laki,Jl. Contoh No.473,Yogyakarta,Mahasiswa,Belum Kawin
+320191000474,Penduduk_474,35,Laki-laki,Jl. Contoh No.474,Makassar,Dokter,Belum Kawin
+320101000475,Penduduk_475,33,Perempuan,Jl. Contoh No.475,Makassar,Pelajar,Cerai Mati
+320153000476,Penduduk_476,33,Laki-laki,Jl. Contoh No.476,Denpasar,Pelajar,Cerai Hidup
+320146000477,Penduduk_477,61,Laki-laki,Jl. Contoh No.477,Makassar,Wiraswasta,Kawin
+320182000478,Penduduk_478,51,Laki-laki,Jl. Contoh No.478,Bandung,Pengangguran,Cerai Mati
+320162000479,Penduduk_479,43,Laki-laki,Jl. Contoh No.479,Medan,Wiraswasta,Belum Kawin
+320156000480,Penduduk_480,12,Perempuan,Jl. Contoh No.480,Medan,Guru,Belum Kawin
+320189000481,Penduduk_481,67,Laki-laki,Jl. Contoh No.481,Denpasar,Pelajar,Cerai Hidup
+320130000482,Penduduk_482,65,Perempuan,Jl. Contoh No.482,Bandung,PNS,Cerai Hidup
+320194000483,Penduduk_483,33,Laki-laki,Jl. Contoh No.483,Yogyakarta,Petani,Cerai Hidup
+320178000484,Penduduk_484,40,Laki-laki,Jl. Contoh No.484,Surabaya,Petani,Cerai Mati
+320112000485,Penduduk_485,74,Perempuan,Jl. Contoh No.485,Yogyakarta,Dokter,Belum Kawin
+320142000486,Penduduk_486,43,Laki-laki,Jl. Contoh No.486,Surabaya,Pelajar,Belum Kawin
+320137000487,Penduduk_487,44,Perempuan,Jl. Contoh No.487,Makassar,Pelajar,Cerai Hidup
+320126000488,Penduduk_488,29,Perempuan,Jl. Contoh No.488,Jakarta,Guru,Kawin
+320145000489,Penduduk_489,13,Laki-laki,Jl. Contoh No.489,Surabaya,Pelajar,Cerai Hidup
+320193000490,Penduduk_490,12,Perempuan,Jl. Contoh No.490,Jakarta,PNS,Cerai Mati
+320161000491,Penduduk_491,46,Perempuan,Jl. Contoh No.491,Medan,Wiraswasta,Cerai Hidup
+320104000492,Penduduk_492,2,Perempuan,Jl. Contoh No.492,Jakarta,Pelajar,Cerai Hidup
+320161000493,Penduduk_493,35,Perempuan,Jl. Contoh No.493,Medan,Pelajar,Cerai Mati
+320128000494,Penduduk_494,87,Perempuan,Jl. Contoh No.494,Bandung,Guru,Cerai Hidup
+320123000495,Penduduk_495,81,Perempuan,Jl. Contoh No.495,Bandung,Pengangguran,Belum Kawin
+320149000496,Penduduk_496,8,Perempuan,Jl. Contoh No.496,Denpasar,Mahasiswa,Kawin
+320183000497,Penduduk_497,26,Perempuan,Jl. Contoh No.497,Denpasar,Pengangguran,Cerai Hidup
+320107000498,Penduduk_498,74,Laki-laki,Jl. Contoh No.498,Makassar,Guru,Cerai Mati
+320133000499,Penduduk_499,34,Laki-laki,Jl. Contoh No.499,Surabaya,Pengangguran,Kawin
+320123000500,Penduduk_500,7,Perempuan,Jl. Contoh No.500,Makassar,Guru,Cerai Mati
+320106000501,Penduduk_501,68,Laki-laki,Jl. Contoh No.501,Medan,PNS,Kawin
+320134000502,Penduduk_502,58,Perempuan,Jl. Contoh No.502,Makassar,Dokter,Kawin
+320176000503,Penduduk_503,75,Perempuan,Jl. Contoh No.503,Jakarta,Pelajar,Cerai Hidup
+320162000504,Penduduk_504,29,Laki-laki,Jl. Contoh No.504,Medan,Guru,Belum Kawin
+320149000505,Penduduk_505,36,Perempuan,Jl. Contoh No.505,Denpasar,Guru,Cerai Hidup
+320170000506,Penduduk_506,89,Perempuan,Jl. Contoh No.506,Bandung,Mahasiswa,Cerai Mati
+320183000507,Penduduk_507,21,Perempuan,Jl. Contoh No.507,Denpasar,Guru,Cerai Mati
+320189000508,Penduduk_508,36,Perempuan,Jl. Contoh No.508,Surabaya,Petani,Kawin
+320111000509,Penduduk_509,10,Laki-laki,Jl. Contoh No.509,Medan,Dokter,Kawin
+320152000510,Penduduk_510,73,Perempuan,Jl. Contoh No.510,Medan,Pelajar,Belum Kawin
+320129000511,Penduduk_511,24,Perempuan,Jl. Contoh No.511,Jakarta,Pelajar,Cerai Hidup
+320104000512,Penduduk_512,64,Perempuan,Jl. Contoh No.512,Surabaya,Mahasiswa,Cerai Mati
+320113000513,Penduduk_513,49,Laki-laki,Jl. Contoh No.513,Bandung,PNS,Kawin
+320123000514,Penduduk_514,36,Perempuan,Jl. Contoh No.514,Yogyakarta,Pelajar,Belum Kawin
+320104000515,Penduduk_515,82,Laki-laki,Jl. Contoh No.515,Medan,Petani,Cerai Mati
+320123000516,Penduduk_516,24,Laki-laki,Jl. Contoh No.516,Medan,Pelajar,Kawin
+320131000517,Penduduk_517,23,Perempuan,Jl. Contoh No.517,Jakarta,Petani,Cerai Mati
+320145000518,Penduduk_518,62,Perempuan,Jl. Contoh No.518,Makassar,Dokter,Belum Kawin
+320129000519,Penduduk_519,37,Laki-laki,Jl. Contoh No.519,Bandung,Dokter,Belum Kawin
+320190000520,Penduduk_520,12,Perempuan,Jl. Contoh No.520,Denpasar,Wiraswasta,Cerai Mati
+320177000521,Penduduk_521,55,Laki-laki,Jl. Contoh No.521,Surabaya,Wiraswasta,Cerai Hidup
+320166000522,Penduduk_522,13,Laki-laki,Jl. Contoh No.522,Medan,Petani,Cerai Mati
+320160000523,Penduduk_523,23,Perempuan,Jl. Contoh No.523,Medan,PNS,Kawin
+320183000524,Penduduk_524,89,Perempuan,Jl. Contoh No.524,Denpasar,Pelajar,Cerai Hidup
+320112000525,Penduduk_525,30,Laki-laki,Jl. Contoh No.525,Bandung,Guru,Kawin
+320192000526,Penduduk_526,17,Laki-laki,Jl. Contoh No.526,Makassar,Pelajar,Cerai Mati
+320196000527,Penduduk_527,62,Laki-laki,Jl. Contoh No.527,Medan,Wiraswasta,Cerai Hidup
+320180000528,Penduduk_528,84,Laki-laki,Jl. Contoh No.528,Bandung,Pengangguran,Kawin
+320172000529,Penduduk_529,89,Perempuan,Jl. Contoh No.529,Denpasar,Guru,Cerai Mati
+320125000530,Penduduk_530,86,Perempuan,Jl. Contoh No.530,Jakarta,Petani,Cerai Mati
+320118000531,Penduduk_531,13,Perempuan,Jl. Contoh No.531,Makassar,Guru,Cerai Hidup
+320173000532,Penduduk_532,59,Perempuan,Jl. Contoh No.532,Surabaya,Pengangguran,Cerai Mati
+320101000533,Penduduk_533,19,Perempuan,Jl. Contoh No.533,Medan,Pelajar,Belum Kawin
+320175000534,Penduduk_534,49,Laki-laki,Jl. Contoh No.534,Bandung,Pelajar,Kawin
+320119000535,Penduduk_535,12,Perempuan,Jl. Contoh No.535,Jakarta,PNS,Kawin
+320127000536,Penduduk_536,61,Perempuan,Jl. Contoh No.536,Surabaya,Mahasiswa,Cerai Mati
+320159000537,Penduduk_537,19,Perempuan,Jl. Contoh No.537,Yogyakarta,Guru,Cerai Mati
+320164000538,Penduduk_538,76,Perempuan,Jl. Contoh No.538,Bandung,Wiraswasta,Belum Kawin
+320188000539,Penduduk_539,9,Perempuan,Jl. Contoh No.539,Bandung,Pengangguran,Cerai Hidup
+320185000540,Penduduk_540,71,Laki-laki,Jl. Contoh No.540,Surabaya,Pengangguran,Cerai Mati
+320152000541,Penduduk_541,28,Laki-laki,Jl. Contoh No.541,Jakarta,Pengangguran,Cerai Mati
+320149000542,Penduduk_542,78,Laki-laki,Jl. Contoh No.542,Yogyakarta,Wiraswasta,Cerai Mati
+320129000543,Penduduk_543,52,Perempuan,Jl. Contoh No.543,Denpasar,Mahasiswa,Cerai Mati
+320141000544,Penduduk_544,83,Laki-laki,Jl. Contoh No.544,Jakarta,Pelajar,Kawin
+320111000545,Penduduk_545,16,Laki-laki,Jl. Contoh No.545,Makassar,PNS,Cerai Mati
+320163000546,Penduduk_546,69,Perempuan,Jl. Contoh No.546,Medan,PNS,Kawin
+320177000547,Penduduk_547,12,Perempuan,Jl. Contoh No.547,Surabaya,Wiraswasta,Cerai Mati
+320152000548,Penduduk_548,25,Perempuan,Jl. Contoh No.548,Denpasar,PNS,Cerai Hidup
+320181000549,Penduduk_549,52,Laki-laki,Jl. Contoh No.549,Yogyakarta,Pengangguran,Belum Kawin
+320166000550,Penduduk_550,85,Laki-laki,Jl. Contoh No.550,Surabaya,Dokter,Cerai Hidup
+320158000551,Penduduk_551,53,Perempuan,Jl. Contoh No.551,Surabaya,Mahasiswa,Cerai Mati
+320184000552,Penduduk_552,23,Perempuan,Jl. Contoh No.552,Jakarta,Pelajar,Cerai Mati
+320188000553,Penduduk_553,16,Laki-laki,Jl. Contoh No.553,Medan,Dokter,Cerai Mati
+320124000554,Penduduk_554,57,Laki-laki,Jl. Contoh No.554,Makassar,Mahasiswa,Cerai Hidup
+320127000555,Penduduk_555,39,Perempuan,Jl. Contoh No.555,Bandung,Petani,Cerai Mati
+320171000556,Penduduk_556,53,Perempuan,Jl. Contoh No.556,Bandung,Guru,Cerai Hidup
+320183000557,Penduduk_557,42,Laki-laki,Jl. Contoh No.557,Surabaya,Wiraswasta,Kawin
+320146000558,Penduduk_558,58,Perempuan,Jl. Contoh No.558,Medan,Pengangguran,Belum Kawin
+320140000559,Penduduk_559,39,Laki-laki,Jl. Contoh No.559,Yogyakarta,PNS,Belum Kawin
+320184000560,Penduduk_560,14,Laki-laki,Jl. Contoh No.560,Yogyakarta,Petani,Cerai Hidup
+320141000561,Penduduk_561,5,Laki-laki,Jl. Contoh No.561,Denpasar,PNS,Kawin
+320124000562,Penduduk_562,35,Laki-laki,Jl. Contoh No.562,Jakarta,Dokter,Cerai Hidup
+320187000563,Penduduk_563,87,Perempuan,Jl. Contoh No.563,Medan,Pelajar,Kawin
+320101000564,Penduduk_564,75,Perempuan,Jl. Contoh No.564,Medan,Pelajar,Cerai Mati
+320196000565,Penduduk_565,18,Laki-laki,Jl. Contoh No.565,Jakarta,Pelajar,Kawin
+320105000566,Penduduk_566,76,Laki-laki,Jl. Contoh No.566,Yogyakarta,Pengangguran,Kawin
+320149000567,Penduduk_567,9,Laki-laki,Jl. Contoh No.567,Yogyakarta,PNS,Kawin
+320169000568,Penduduk_568,74,Laki-laki,Jl. Contoh No.568,Yogyakarta,Petani,Belum Kawin
+320105000569,Penduduk_569,58,Laki-laki,Jl. Contoh No.569,Surabaya,Pelajar,Kawin
+320164000570,Penduduk_570,17,Perempuan,Jl. Contoh No.570,Medan,Petani,Cerai Mati
+320126000571,Penduduk_571,7,Perempuan,Jl. Contoh No.571,Bandung,PNS,Cerai Mati
+320185000572,Penduduk_572,46,Perempuan,Jl. Contoh No.572,Jakarta,Pengangguran,Cerai Mati
+320136000573,Penduduk_573,13,Perempuan,Jl. Contoh No.573,Yogyakarta,Dokter,Kawin
+320133000574,Penduduk_574,40,Laki-laki,Jl. Contoh No.574,Denpasar,Pengangguran,Cerai Hidup
+320138000575,Penduduk_575,42,Laki-laki,Jl. Contoh No.575,Yogyakarta,Petani,Cerai Hidup
+320115000576,Penduduk_576,9,Laki-laki,Jl. Contoh No.576,Yogyakarta,Pengangguran,Cerai Mati
+320169000577,Penduduk_577,50,Laki-laki,Jl. Contoh No.577,Makassar,Pengangguran,Belum Kawin
+320117000578,Penduduk_578,27,Laki-laki,Jl. Contoh No.578,Surabaya,Dokter,Cerai Hidup
+320169000579,Penduduk_579,66,Perempuan,Jl. Contoh No.579,Jakarta,PNS,Kawin
+320191000580,Penduduk_580,5,Laki-laki,Jl. Contoh No.580,Makassar,PNS,Cerai Hidup
+320194000581,Penduduk_581,29,Perempuan,Jl. Contoh No.581,Makassar,Wiraswasta,Cerai Mati
+320117000582,Penduduk_582,37,Perempuan,Jl. Contoh No.582,Denpasar,Pengangguran,Belum Kawin
+320129000583,Penduduk_583,38,Perempuan,Jl. Contoh No.583,Medan,PNS,Cerai Hidup
+320120000584,Penduduk_584,83,Perempuan,Jl. Contoh No.584,Denpasar,PNS,Cerai Hidup
+320149000585,Penduduk_585,8,Laki-laki,Jl. Contoh No.585,Medan,Mahasiswa,Cerai Mati
+320111000586,Penduduk_586,65,Perempuan,Jl. Contoh No.586,Medan,Pelajar,Belum Kawin
+320181000587,Penduduk_587,86,Perempuan,Jl. Contoh No.587,Jakarta,Wiraswasta,Belum Kawin
+320120000588,Penduduk_588,17,Perempuan,Jl. Contoh No.588,Yogyakarta,Guru,Cerai Mati
+320150000589,Penduduk_589,71,Laki-laki,Jl. Contoh No.589,Jakarta,Wiraswasta,Kawin
+320160000590,Penduduk_590,89,Laki-laki,Jl. Contoh No.590,Surabaya,Wiraswasta,Cerai Hidup
+320186000591,Penduduk_591,45,Laki-laki,Jl. Contoh No.591,Medan,Guru,Kawin
+320161000592,Penduduk_592,4,Perempuan,Jl. Contoh No.592,Makassar,Mahasiswa,Cerai Hidup
+320122000593,Penduduk_593,36,Perempuan,Jl. Contoh No.593,Yogyakarta,Pengangguran,Cerai Hidup
+320103000594,Penduduk_594,70,Laki-laki,Jl. Contoh No.594,Bandung,Dokter,Kawin
+320148000595,Penduduk_595,31,Perempuan,Jl. Contoh No.595,Surabaya,PNS,Cerai Mati
+320128000596,Penduduk_596,19,Laki-laki,Jl. Contoh No.596,Jakarta,Pelajar,Cerai Mati
+320174000597,Penduduk_597,61,Laki-laki,Jl. Contoh No.597,Denpasar,Petani,Cerai Hidup
+320189000598,Penduduk_598,54,Perempuan,Jl. Contoh No.598,Surabaya,Pengangguran,Cerai Mati
+320149000599,Penduduk_599,39,Perempuan,Jl. Contoh No.599,Surabaya,Guru,Cerai Hidup
+320121000600,Penduduk_600,74,Perempuan,Jl. Contoh No.600,Yogyakarta,Dokter,Cerai Mati
+320128000601,Penduduk_601,19,Perempuan,Jl. Contoh No.601,Surabaya,Pengangguran,Cerai Hidup
+320167000602,Penduduk_602,39,Laki-laki,Jl. Contoh No.602,Surabaya,Guru,Cerai Mati
+320130000603,Penduduk_603,67,Laki-laki,Jl. Contoh No.603,Bandung,PNS,Belum Kawin
+320154000604,Penduduk_604,45,Laki-laki,Jl. Contoh No.604,Denpasar,Mahasiswa,Kawin
+320138000605,Penduduk_605,13,Laki-laki,Jl. Contoh No.605,Denpasar,Pengangguran,Belum Kawin
+320140000606,Penduduk_606,58,Laki-laki,Jl. Contoh No.606,Denpasar,Guru,Kawin
+320162000607,Penduduk_607,20,Perempuan,Jl. Contoh No.607,Medan,PNS,Kawin
+320127000608,Penduduk_608,72,Laki-laki,Jl. Contoh No.608,Makassar,PNS,Cerai Hidup
+320126000609,Penduduk_609,61,Laki-laki,Jl. Contoh No.609,Denpasar,Mahasiswa,Kawin
+320184000610,Penduduk_610,39,Laki-laki,Jl. Contoh No.610,Surabaya,Wiraswasta,Belum Kawin
+320164000611,Penduduk_611,1,Perempuan,Jl. Contoh No.611,Surabaya,Pengangguran,Belum Kawin
+320177000612,Penduduk_612,3,Perempuan,Jl. Contoh No.612,Denpasar,Pengangguran,Cerai Mati
+320164000613,Penduduk_613,77,Perempuan,Jl. Contoh No.613,Yogyakarta,Wiraswasta,Belum Kawin
+320102000614,Penduduk_614,62,Perempuan,Jl. Contoh No.614,Denpasar,Pelajar,Cerai Mati
+320193000615,Penduduk_615,63,Laki-laki,Jl. Contoh No.615,Surabaya,Pelajar,Kawin
+320121000616,Penduduk_616,25,Laki-laki,Jl. Contoh No.616,Medan,Wiraswasta,Belum Kawin
+320180000617,Penduduk_617,56,Perempuan,Jl. Contoh No.617,Jakarta,Dokter,Kawin
+320153000618,Penduduk_618,33,Perempuan,Jl. Contoh No.618,Jakarta,Petani,Belum Kawin
+320145000619,Penduduk_619,38,Laki-laki,Jl. Contoh No.619,Denpasar,PNS,Belum Kawin
+320156000620,Penduduk_620,6,Laki-laki,Jl. Contoh No.620,Bandung,Petani,Cerai Mati
+320191000621,Penduduk_621,58,Perempuan,Jl. Contoh No.621,Denpasar,PNS,Kawin
+320156000622,Penduduk_622,44,Perempuan,Jl. Contoh No.622,Yogyakarta,Wiraswasta,Belum Kawin
+320145000623,Penduduk_623,45,Perempuan,Jl. Contoh No.623,Denpasar,Pelajar,Cerai Hidup
+320182000624,Penduduk_624,32,Perempuan,Jl. Contoh No.624,Jakarta,Dokter,Kawin
+320167000625,Penduduk_625,45,Laki-laki,Jl. Contoh No.625,Surabaya,Pelajar,Kawin
+320113000626,Penduduk_626,61,Laki-laki,Jl. Contoh No.626,Denpasar,Petani,Kawin
+320145000627,Penduduk_627,47,Laki-laki,Jl. Contoh No.627,Surabaya,Pelajar,Cerai Mati
+320166000628,Penduduk_628,21,Perempuan,Jl. Contoh No.628,Surabaya,Wiraswasta,Cerai Hidup
+320194000629,Penduduk_629,80,Perempuan,Jl. Contoh No.629,Bandung,Dokter,Kawin
+320130000630,Penduduk_630,85,Laki-laki,Jl. Contoh No.630,Surabaya,Petani,Belum Kawin
+320170000631,Penduduk_631,75,Laki-laki,Jl. Contoh No.631,Jakarta,Dokter,Belum Kawin
+320194000632,Penduduk_632,36,Laki-laki,Jl. Contoh No.632,Medan,Pengangguran,Cerai Mati
+320112000633,Penduduk_633,19,Laki-laki,Jl. Contoh No.633,Medan,PNS,Belum Kawin
+320153000634,Penduduk_634,20,Perempuan,Jl. Contoh No.634,Makassar,Pelajar,Kawin
+320153000635,Penduduk_635,57,Laki-laki,Jl. Contoh No.635,Yogyakarta,Dokter,Belum Kawin
+320127000636,Penduduk_636,18,Laki-laki,Jl. Contoh No.636,Denpasar,Mahasiswa,Kawin
+320107000637,Penduduk_637,47,Laki-laki,Jl. Contoh No.637,Yogyakarta,Pengangguran,Belum Kawin
+320174000638,Penduduk_638,49,Laki-laki,Jl. Contoh No.638,Jakarta,Pelajar,Cerai Hidup
+320144000639,Penduduk_639,14,Laki-laki,Jl. Contoh No.639,Surabaya,PNS,Cerai Mati
+320155000640,Penduduk_640,15,Laki-laki,Jl. Contoh No.640,Medan,Dokter,Cerai Mati
+320141000641,Penduduk_641,31,Laki-laki,Jl. Contoh No.641,Yogyakarta,Petani,Cerai Hidup
+320172000642,Penduduk_642,1,Perempuan,Jl. Contoh No.642,Jakarta,PNS,Cerai Hidup
+320141000643,Penduduk_643,54,Perempuan,Jl. Contoh No.643,Medan,Mahasiswa,Cerai Mati
+320179000644,Penduduk_644,3,Perempuan,Jl. Contoh No.644,Surabaya,Dokter,Cerai Hidup
+320131000645,Penduduk_645,16,Perempuan,Jl. Contoh No.645,Yogyakarta,Guru,Kawin
+320175000646,Penduduk_646,87,Laki-laki,Jl. Contoh No.646,Medan,Guru,Belum Kawin
+320169000647,Penduduk_647,57,Perempuan,Jl. Contoh No.647,Denpasar,Wiraswasta,Cerai Mati
+320185000648,Penduduk_648,75,Perempuan,Jl. Contoh No.648,Denpasar,Pelajar,Cerai Hidup
+320167000649,Penduduk_649,12,Laki-laki,Jl. Contoh No.649,Makassar,Petani,Kawin
+320192000650,Penduduk_650,74,Laki-laki,Jl. Contoh No.650,Makassar,Wiraswasta,Cerai Mati
+320157000651,Penduduk_651,16,Perempuan,Jl. Contoh No.651,Medan,Dokter,Cerai Hidup
+320130000652,Penduduk_652,72,Perempuan,Jl. Contoh No.652,Jakarta,Guru,Cerai Mati
+320159000653,Penduduk_653,76,Laki-laki,Jl. Contoh No.653,Denpasar,Guru,Cerai Hidup
+320105000654,Penduduk_654,24,Perempuan,Jl. Contoh No.654,Jakarta,Guru,Cerai Mati
+320165000655,Penduduk_655,28,Laki-laki,Jl. Contoh No.655,Jakarta,Dokter,Kawin
+320141000656,Penduduk_656,8,Laki-laki,Jl. Contoh No.656,Medan,Guru,Kawin
+320105000657,Penduduk_657,36,Laki-laki,Jl. Contoh No.657,Jakarta,PNS,Belum Kawin
+320126000658,Penduduk_658,8,Laki-laki,Jl. Contoh No.658,Denpasar,Pengangguran,Cerai Mati
+320139000659,Penduduk_659,58,Perempuan,Jl. Contoh No.659,Surabaya,Dokter,Belum Kawin
+320118000660,Penduduk_660,60,Laki-laki,Jl. Contoh No.660,Makassar,Petani,Cerai Mati
+320120000661,Penduduk_661,50,Laki-laki,Jl. Contoh No.661,Surabaya,Pengangguran,Cerai Hidup
+320170000662,Penduduk_662,28,Perempuan,Jl. Contoh No.662,Jakarta,Wiraswasta,Cerai Hidup
+320197000663,Penduduk_663,41,Laki-laki,Jl. Contoh No.663,Surabaya,Petani,Belum Kawin
+320137000664,Penduduk_664,64,Perempuan,Jl. Contoh No.664,Denpasar,Pengangguran,Cerai Mati
+320199000665,Penduduk_665,27,Perempuan,Jl. Contoh No.665,Denpasar,Mahasiswa,Belum Kawin
+320189000666,Penduduk_666,63,Perempuan,Jl. Contoh No.666,Jakarta,Guru,Kawin
+320145000667,Penduduk_667,17,Laki-laki,Jl. Contoh No.667,Medan,Mahasiswa,Belum Kawin
+320112000668,Penduduk_668,73,Perempuan,Jl. Contoh No.668,Surabaya,Pelajar,Belum Kawin
+320131000669,Penduduk_669,33,Perempuan,Jl. Contoh No.669,Medan,Pelajar,Cerai Hidup
+320158000670,Penduduk_670,84,Laki-laki,Jl. Contoh No.670,Medan,Pengangguran,Belum Kawin
+320172000671,Penduduk_671,77,Perempuan,Jl. Contoh No.671,Bandung,Mahasiswa,Cerai Mati
+320161000672,Penduduk_672,29,Perempuan,Jl. Contoh No.672,Jakarta,Dokter,Cerai Hidup
+320120000673,Penduduk_673,13,Perempuan,Jl. Contoh No.673,Makassar,Petani,Belum Kawin
+320119000674,Penduduk_674,46,Perempuan,Jl. Contoh No.674,Denpasar,Mahasiswa,Kawin
+320151000675,Penduduk_675,35,Perempuan,Jl. Contoh No.675,Denpasar,Pelajar,Belum Kawin
+320165000676,Penduduk_676,6,Laki-laki,Jl. Contoh No.676,Jakarta,Mahasiswa,Belum Kawin
+320195000677,Penduduk_677,82,Perempuan,Jl. Contoh No.677,Yogyakarta,Dokter,Belum Kawin
+320167000678,Penduduk_678,69,Perempuan,Jl. Contoh No.678,Yogyakarta,Mahasiswa,Cerai Hidup
+320176000679,Penduduk_679,47,Laki-laki,Jl. Contoh No.679,Yogyakarta,Petani,Cerai Mati
+320171000680,Penduduk_680,25,Laki-laki,Jl. Contoh No.680,Makassar,Wiraswasta,Kawin
+320185000681,Penduduk_681,66,Laki-laki,Jl. Contoh No.681,Denpasar,Dokter,Belum Kawin
+320130000682,Penduduk_682,10,Perempuan,Jl. Contoh No.682,Jakarta,Pelajar,Cerai Mati
+320127000683,Penduduk_683,56,Laki-laki,Jl. Contoh No.683,Denpasar,Petani,Cerai Mati
+320158000684,Penduduk_684,30,Perempuan,Jl. Contoh No.684,Medan,Mahasiswa,Cerai Hidup
+320103000685,Penduduk_685,5,Perempuan,Jl. Contoh No.685,Surabaya,Mahasiswa,Kawin
+320176000686,Penduduk_686,33,Laki-laki,Jl. Contoh No.686,Surabaya,Wiraswasta,Cerai Hidup
+320169000687,Penduduk_687,65,Laki-laki,Jl. Contoh No.687,Denpasar,Pelajar,Cerai Mati
+320156000688,Penduduk_688,18,Perempuan,Jl. Contoh No.688,Bandung,Pelajar,Cerai Mati
+320132000689,Penduduk_689,49,Laki-laki,Jl. Contoh No.689,Makassar,PNS,Cerai Mati
+320138000690,Penduduk_690,11,Perempuan,Jl. Contoh No.690,Yogyakarta,Pelajar,Cerai Hidup
+320193000691,Penduduk_691,85,Laki-laki,Jl. Contoh No.691,Makassar,Wiraswasta,Kawin
+320120000692,Penduduk_692,26,Laki-laki,Jl. Contoh No.692,Makassar,Guru,Belum Kawin
+320159000693,Penduduk_693,63,Laki-laki,Jl. Contoh No.693,Medan,PNS,Cerai Hidup
+320128000694,Penduduk_694,89,Perempuan,Jl. Contoh No.694,Makassar,PNS,Cerai Mati
+320102000695,Penduduk_695,86,Laki-laki,Jl. Contoh No.695,Surabaya,Mahasiswa,Cerai Hidup
+320171000696,Penduduk_696,59,Perempuan,Jl. Contoh No.696,Medan,Mahasiswa,Cerai Mati
+320102000697,Penduduk_697,27,Perempuan,Jl. Contoh No.697,Jakarta,Pelajar,Belum Kawin
+320126000698,Penduduk_698,49,Perempuan,Jl. Contoh No.698,Makassar,PNS,Belum Kawin
+320151000699,Penduduk_699,77,Perempuan,Jl. Contoh No.699,Makassar,Pengangguran,Kawin
+320163000700,Penduduk_700,33,Laki-laki,Jl. Contoh No.700,Jakarta,Mahasiswa,Cerai Mati
+320184000701,Penduduk_701,1,Perempuan,Jl. Contoh No.701,Makassar,Wiraswasta,Kawin
+320156000702,Penduduk_702,21,Perempuan,Jl. Contoh No.702,Jakarta,Pengangguran,Kawin
+320132000703,Penduduk_703,55,Laki-laki,Jl. Contoh No.703,Medan,Mahasiswa,Belum Kawin
+320124000704,Penduduk_704,6,Perempuan,Jl. Contoh No.704,Surabaya,Dokter,Cerai Hidup
+320121000705,Penduduk_705,81,Laki-laki,Jl. Contoh No.705,Jakarta,Dokter,Cerai Hidup
+320101000706,Penduduk_706,69,Perempuan,Jl. Contoh No.706,Bandung,Mahasiswa,Kawin
+320135000707,Penduduk_707,5,Laki-laki,Jl. Contoh No.707,Jakarta,PNS,Belum Kawin
+320101000708,Penduduk_708,3,Perempuan,Jl. Contoh No.708,Makassar,Guru,Cerai Mati
+320104000709,Penduduk_709,53,Laki-laki,Jl. Contoh No.709,Yogyakarta,Guru,Cerai Hidup
+320165000710,Penduduk_710,23,Perempuan,Jl. Contoh No.710,Yogyakarta,PNS,Kawin
+320118000711,Penduduk_711,53,Perempuan,Jl. Contoh No.711,Medan,Petani,Cerai Hidup
+320177000712,Penduduk_712,37,Laki-laki,Jl. Contoh No.712,Denpasar,Guru,Cerai Hidup
+320169000713,Penduduk_713,74,Laki-laki,Jl. Contoh No.713,Medan,Dokter,Cerai Mati
+320130000714,Penduduk_714,74,Laki-laki,Jl. Contoh No.714,Denpasar,Wiraswasta,Belum Kawin
+320190000715,Penduduk_715,83,Laki-laki,Jl. Contoh No.715,Yogyakarta,PNS,Cerai Mati
+320139000716,Penduduk_716,17,Perempuan,Jl. Contoh No.716,Yogyakarta,Pelajar,Belum Kawin
+320161000717,Penduduk_717,85,Perempuan,Jl. Contoh No.717,Jakarta,Dokter,Cerai Hidup
+320172000718,Penduduk_718,78,Laki-laki,Jl. Contoh No.718,Surabaya,Wiraswasta,Kawin
+320146000719,Penduduk_719,73,Perempuan,Jl. Contoh No.719,Bandung,Wiraswasta,Cerai Mati
+320168000720,Penduduk_720,1,Laki-laki,Jl. Contoh No.720,Medan,PNS,Belum Kawin
+320172000721,Penduduk_721,51,Laki-laki,Jl. Contoh No.721,Makassar,Wiraswasta,Cerai Hidup
+320145000722,Penduduk_722,45,Perempuan,Jl. Contoh No.722,Denpasar,PNS,Belum Kawin
+320181000723,Penduduk_723,77,Perempuan,Jl. Contoh No.723,Makassar,Guru,Belum Kawin
+320110000724,Penduduk_724,4,Perempuan,Jl. Contoh No.724,Surabaya,Mahasiswa,Belum Kawin
+320197000725,Penduduk_725,62,Perempuan,Jl. Contoh No.725,Denpasar,Dokter,Cerai Hidup
+320178000726,Penduduk_726,65,Perempuan,Jl. Contoh No.726,Medan,Petani,Kawin
+320174000727,Penduduk_727,32,Perempuan,Jl. Contoh No.727,Jakarta,Mahasiswa,Kawin
+320109000728,Penduduk_728,34,Perempuan,Jl. Contoh No.728,Makassar,Dokter,Kawin
+320126000729,Penduduk_729,72,Laki-laki,Jl. Contoh No.729,Surabaya,PNS,Belum Kawin
+320169000730,Penduduk_730,39,Laki-laki,Jl. Contoh No.730,Medan,Dokter,Cerai Hidup
+320138000731,Penduduk_731,26,Laki-laki,Jl. Contoh No.731,Yogyakarta,Guru,Belum Kawin
+320180000732,Penduduk_732,34,Laki-laki,Jl. Contoh No.732,Yogyakarta,PNS,Kawin
+320126000733,Penduduk_733,54,Laki-laki,Jl. Contoh No.733,Medan,Mahasiswa,Kawin
+320190000734,Penduduk_734,3,Perempuan,Jl. Contoh No.734,Medan,Pelajar,Cerai Hidup
+320168000735,Penduduk_735,50,Laki-laki,Jl. Contoh No.735,Medan,Pelajar,Belum Kawin
+320166000736,Penduduk_736,12,Laki-laki,Jl. Contoh No.736,Denpasar,Pengangguran,Cerai Mati
+320151000737,Penduduk_737,65,Laki-laki,Jl. Contoh No.737,Medan,Pengangguran,Cerai Mati
+320197000738,Penduduk_738,54,Laki-laki,Jl. Contoh No.738,Makassar,Dokter,Kawin
+320198000739,Penduduk_739,5,Laki-laki,Jl. Contoh No.739,Surabaya,Pelajar,Cerai Hidup
+320156000740,Penduduk_740,57,Laki-laki,Jl. Contoh No.740,Denpasar,PNS,Belum Kawin
+320136000741,Penduduk_741,17,Laki-laki,Jl. Contoh No.741,Medan,Wiraswasta,Belum Kawin
+320111000742,Penduduk_742,47,Perempuan,Jl. Contoh No.742,Bandung,PNS,Kawin
+320123000743,Penduduk_743,23,Perempuan,Jl. Contoh No.743,Bandung,Wiraswasta,Kawin
+320135000744,Penduduk_744,79,Laki-laki,Jl. Contoh No.744,Surabaya,Mahasiswa,Belum Kawin
+320168000745,Penduduk_745,85,Perempuan,Jl. Contoh No.745,Yogyakarta,Petani,Belum Kawin
+320106000746,Penduduk_746,14,Perempuan,Jl. Contoh No.746,Jakarta,Wiraswasta,Kawin
+320125000747,Penduduk_747,66,Perempuan,Jl. Contoh No.747,Jakarta,Pelajar,Belum Kawin
+320169000748,Penduduk_748,75,Perempuan,Jl. Contoh No.748,Yogyakarta,PNS,Cerai Mati
+320197000749,Penduduk_749,51,Laki-laki,Jl. Contoh No.749,Denpasar,Mahasiswa,Kawin
+320157000750,Penduduk_750,38,Perempuan,Jl. Contoh No.750,Denpasar,Pelajar,Belum Kawin
+320188000751,Penduduk_751,64,Perempuan,Jl. Contoh No.751,Denpasar,Mahasiswa,Kawin
+320102000752,Penduduk_752,38,Perempuan,Jl. Contoh No.752,Jakarta,Petani,Cerai Hidup
+320193000753,Penduduk_753,50,Laki-laki,Jl. Contoh No.753,Bandung,Guru,Kawin
+320166000754,Penduduk_754,82,Laki-laki,Jl. Contoh No.754,Jakarta,PNS,Kawin
+320120000755,Penduduk_755,30,Laki-laki,Jl. Contoh No.755,Makassar,Dokter,Cerai Hidup
+320147000756,Penduduk_756,79,Laki-laki,Jl. Contoh No.756,Medan,PNS,Cerai Mati
+320123000757,Penduduk_757,51,Laki-laki,Jl. Contoh No.757,Denpasar,Pengangguran,Belum Kawin
+320127000758,Penduduk_758,63,Laki-laki,Jl. Contoh No.758,Bandung,Petani,Cerai Hidup
+320143000759,Penduduk_759,52,Laki-laki,Jl. Contoh No.759,Surabaya,PNS,Kawin
+320159000760,Penduduk_760,38,Perempuan,Jl. Contoh No.760,Surabaya,Pengangguran,Belum Kawin
+320142000761,Penduduk_761,88,Perempuan,Jl. Contoh No.761,Medan,Dokter,Cerai Hidup
+320135000762,Penduduk_762,79,Perempuan,Jl. Contoh No.762,Bandung,Wiraswasta,Belum Kawin
+320152000763,Penduduk_763,30,Laki-laki,Jl. Contoh No.763,Jakarta,Mahasiswa,Belum Kawin
+320117000764,Penduduk_764,51,Laki-laki,Jl. Contoh No.764,Jakarta,Dokter,Cerai Hidup
+320169000765,Penduduk_765,81,Laki-laki,Jl. Contoh No.765,Makassar,Pelajar,Belum Kawin
+320181000766,Penduduk_766,5,Laki-laki,Jl. Contoh No.766,Makassar,Petani,Cerai Mati
+320137000767,Penduduk_767,29,Laki-laki,Jl. Contoh No.767,Jakarta,Wiraswasta,Cerai Hidup
+320170000768,Penduduk_768,4,Perempuan,Jl. Contoh No.768,Surabaya,Pelajar,Cerai Mati
+320171000769,Penduduk_769,10,Perempuan,Jl. Contoh No.769,Denpasar,Pelajar,Kawin
+320140000770,Penduduk_770,56,Laki-laki,Jl. Contoh No.770,Surabaya,Petani,Belum Kawin
+320171000771,Penduduk_771,17,Laki-laki,Jl. Contoh No.771,Makassar,Wiraswasta,Kawin
+320103000772,Penduduk_772,74,Laki-laki,Jl. Contoh No.772,Medan,Guru,Kawin
+320167000773,Penduduk_773,17,Laki-laki,Jl. Contoh No.773,Jakarta,Pelajar,Belum Kawin
+320102000774,Penduduk_774,84,Perempuan,Jl. Contoh No.774,Makassar,Pelajar,Cerai Hidup
+320106000775,Penduduk_775,88,Laki-laki,Jl. Contoh No.775,Makassar,Wiraswasta,Belum Kawin
+320147000776,Penduduk_776,69,Laki-laki,Jl. Contoh No.776,Denpasar,PNS,Kawin
+320132000777,Penduduk_777,34,Laki-laki,Jl. Contoh No.777,Jakarta,Pelajar,Kawin
+320181000778,Penduduk_778,6,Laki-laki,Jl. Contoh No.778,Denpasar,Mahasiswa,Cerai Hidup
+320153000779,Penduduk_779,53,Perempuan,Jl. Contoh No.779,Jakarta,Wiraswasta,Belum Kawin
+320153000780,Penduduk_780,66,Laki-laki,Jl. Contoh No.780,Denpasar,Pelajar,Kawin
+320122000781,Penduduk_781,77,Laki-laki,Jl. Contoh No.781,Surabaya,Petani,Cerai Mati
+320194000782,Penduduk_782,43,Perempuan,Jl. Contoh No.782,Medan,Dokter,Kawin
+320146000783,Penduduk_783,75,Perempuan,Jl. Contoh No.783,Medan,Mahasiswa,Kawin
+320115000784,Penduduk_784,23,Perempuan,Jl. Contoh No.784,Jakarta,Pengangguran,Cerai Hidup
+320111000785,Penduduk_785,55,Laki-laki,Jl. Contoh No.785,Bandung,Pengangguran,Cerai Mati
+320140000786,Penduduk_786,80,Laki-laki,Jl. Contoh No.786,Yogyakarta,Dokter,Kawin
+320148000787,Penduduk_787,75,Perempuan,Jl. Contoh No.787,Makassar,Pengangguran,Kawin
+320116000788,Penduduk_788,16,Perempuan,Jl. Contoh No.788,Makassar,Dokter,Cerai Mati
+320124000789,Penduduk_789,8,Perempuan,Jl. Contoh No.789,Jakarta,Pelajar,Belum Kawin
+320183000790,Penduduk_790,4,Perempuan,Jl. Contoh No.790,Denpasar,Mahasiswa,Belum Kawin
+320135000791,Penduduk_791,4,Perempuan,Jl. Contoh No.791,Bandung,Mahasiswa,Kawin
+320167000792,Penduduk_792,56,Perempuan,Jl. Contoh No.792,Surabaya,PNS,Kawin
+320111000793,Penduduk_793,25,Laki-laki,Jl. Contoh No.793,Denpasar,Dokter,Belum Kawin
+320191000794,Penduduk_794,67,Laki-laki,Jl. Contoh No.794,Denpasar,Mahasiswa,Cerai Hidup
+320106000795,Penduduk_795,67,Laki-laki,Jl. Contoh No.795,Jakarta,PNS,Cerai Mati
+320160000796,Penduduk_796,27,Perempuan,Jl. Contoh No.796,Jakarta,Wiraswasta,Cerai Mati
+320144000797,Penduduk_797,32,Perempuan,Jl. Contoh No.797,Makassar,PNS,Cerai Hidup
+320125000798,Penduduk_798,50,Perempuan,Jl. Contoh No.798,Jakarta,Petani,Cerai Hidup
+320119000799,Penduduk_799,61,Perempuan,Jl. Contoh No.799,Jakarta,Guru,Cerai Hidup
+320183000800,Penduduk_800,51,Perempuan,Jl. Contoh No.800,Jakarta,Pelajar,Cerai Hidup
+320147000801,Penduduk_801,19,Perempuan,Jl. Contoh No.801,Makassar,Wiraswasta,Cerai Hidup
+320141000802,Penduduk_802,21,Laki-laki,Jl. Contoh No.802,Surabaya,Guru,Cerai Hidup
+320105000803,Penduduk_803,5,Laki-laki,Jl. Contoh No.803,Surabaya,Guru,Cerai Mati
+320109000804,Penduduk_804,82,Perempuan,Jl. Contoh No.804,Yogyakarta,Wiraswasta,Cerai Hidup
+320142000805,Penduduk_805,42,Laki-laki,Jl. Contoh No.805,Yogyakarta,Petani,Belum Kawin
+320185000806,Penduduk_806,61,Perempuan,Jl. Contoh No.806,Jakarta,PNS,Cerai Hidup
+320141000807,Penduduk_807,22,Laki-laki,Jl. Contoh No.807,Yogyakarta,Pelajar,Cerai Hidup
+320164000808,Penduduk_808,21,Perempuan,Jl. Contoh No.808,Makassar,PNS,Cerai Mati
+320161000809,Penduduk_809,70,Perempuan,Jl. Contoh No.809,Surabaya,Mahasiswa,Cerai Mati
+320177000810,Penduduk_810,1,Laki-laki,Jl. Contoh No.810,Denpasar,PNS,Cerai Hidup
+320107000811,Penduduk_811,5,Laki-laki,Jl. Contoh No.811,Surabaya,Pengangguran,Cerai Mati
+320144000812,Penduduk_812,12,Perempuan,Jl. Contoh No.812,Surabaya,Wiraswasta,Kawin
+320132000813,Penduduk_813,46,Perempuan,Jl. Contoh No.813,Makassar,Pelajar,Cerai Mati
+320152000814,Penduduk_814,34,Laki-laki,Jl. Contoh No.814,Yogyakarta,PNS,Cerai Mati
+320199000815,Penduduk_815,49,Laki-laki,Jl. Contoh No.815,Denpasar,Pelajar,Cerai Mati
+320171000816,Penduduk_816,78,Perempuan,Jl. Contoh No.816,Makassar,Pelajar,Cerai Mati
+320112000817,Penduduk_817,45,Laki-laki,Jl. Contoh No.817,Jakarta,Mahasiswa,Belum Kawin
+320195000818,Penduduk_818,27,Perempuan,Jl. Contoh No.818,Medan,Mahasiswa,Belum Kawin
+320111000819,Penduduk_819,73,Perempuan,Jl. Contoh No.819,Surabaya,Wiraswasta,Belum Kawin
+320153000820,Penduduk_820,26,Perempuan,Jl. Contoh No.820,Medan,Petani,Cerai Hidup
+320102000821,Penduduk_821,47,Perempuan,Jl. Contoh No.821,Makassar,Pengangguran,Cerai Hidup
+320183000822,Penduduk_822,86,Laki-laki,Jl. Contoh No.822,Makassar,Guru,Kawin
+320156000823,Penduduk_823,56,Laki-laki,Jl. Contoh No.823,Makassar,Pelajar,Belum Kawin
+320149000824,Penduduk_824,63,Laki-laki,Jl. Contoh No.824,Medan,Petani,Cerai Hidup
+320115000825,Penduduk_825,48,Laki-laki,Jl. Contoh No.825,Makassar,Guru,Cerai Mati
+320193000826,Penduduk_826,61,Laki-laki,Jl. Contoh No.826,Jakarta,Guru,Cerai Mati
+320183000827,Penduduk_827,81,Laki-laki,Jl. Contoh No.827,Makassar,Pengangguran,Belum Kawin
+320192000828,Penduduk_828,26,Laki-laki,Jl. Contoh No.828,Bandung,Wiraswasta,Kawin
+320111000829,Penduduk_829,36,Perempuan,Jl. Contoh No.829,Yogyakarta,Guru,Kawin
+320114000830,Penduduk_830,1,Laki-laki,Jl. Contoh No.830,Medan,Pengangguran,Cerai Mati
+320118000831,Penduduk_831,8,Laki-laki,Jl. Contoh No.831,Bandung,Guru,Kawin
+320184000832,Penduduk_832,52,Perempuan,Jl. Contoh No.832,Makassar,Pelajar,Belum Kawin
+320190000833,Penduduk_833,79,Laki-laki,Jl. Contoh No.833,Jakarta,Pelajar,Cerai Mati
+320137000834,Penduduk_834,47,Laki-laki,Jl. Contoh No.834,Surabaya,Dokter,Cerai Hidup
+320156000835,Penduduk_835,56,Perempuan,Jl. Contoh No.835,Denpasar,Petani,Cerai Hidup
+320125000836,Penduduk_836,86,Laki-laki,Jl. Contoh No.836,Yogyakarta,PNS,Kawin
+320144000837,Penduduk_837,14,Laki-laki,Jl. Contoh No.837,Denpasar,Pengangguran,Cerai Mati
+320167000838,Penduduk_838,28,Laki-laki,Jl. Contoh No.838,Makassar,Mahasiswa,Cerai Mati
+320199000839,Penduduk_839,87,Perempuan,Jl. Contoh No.839,Yogyakarta,Pengangguran,Cerai Hidup
+320173000840,Penduduk_840,78,Laki-laki,Jl. Contoh No.840,Yogyakarta,PNS,Cerai Mati
+320129000841,Penduduk_841,88,Laki-laki,Jl. Contoh No.841,Jakarta,Petani,Cerai Mati
+320181000842,Penduduk_842,2,Perempuan,Jl. Contoh No.842,Yogyakarta,Mahasiswa,Cerai Mati
+320120000843,Penduduk_843,26,Laki-laki,Jl. Contoh No.843,Medan,PNS,Kawin
+320168000844,Penduduk_844,14,Perempuan,Jl. Contoh No.844,Bandung,Dokter,Cerai Mati
+320198000845,Penduduk_845,59,Perempuan,Jl. Contoh No.845,Bandung,Mahasiswa,Belum Kawin
+320145000846,Penduduk_846,56,Laki-laki,Jl. Contoh No.846,Bandung,Pelajar,Kawin
+320123000847,Penduduk_847,7,Perempuan,Jl. Contoh No.847,Medan,PNS,Cerai Mati
+320152000848,Penduduk_848,3,Perempuan,Jl. Contoh No.848,Denpasar,Pengangguran,Cerai Mati
+320186000849,Penduduk_849,23,Laki-laki,Jl. Contoh No.849,Jakarta,Mahasiswa,Belum Kawin
+320189000850,Penduduk_850,18,Perempuan,Jl. Contoh No.850,Yogyakarta,Dokter,Kawin
+320174000851,Penduduk_851,38,Perempuan,Jl. Contoh No.851,Medan,Pengangguran,Cerai Hidup
+320171000852,Penduduk_852,15,Laki-laki,Jl. Contoh No.852,Bandung,Guru,Cerai Hidup
+320175000853,Penduduk_853,64,Laki-laki,Jl. Contoh No.853,Makassar,Mahasiswa,Kawin
+320153000854,Penduduk_854,89,Laki-laki,Jl. Contoh No.854,Surabaya,Mahasiswa,Cerai Mati
+320198000855,Penduduk_855,28,Perempuan,Jl. Contoh No.855,Yogyakarta,Dokter,Cerai Mati
+320149000856,Penduduk_856,74,Laki-laki,Jl. Contoh No.856,Medan,Guru,Cerai Hidup
+320152000857,Penduduk_857,39,Perempuan,Jl. Contoh No.857,Medan,PNS,Cerai Hidup
+320156000858,Penduduk_858,57,Perempuan,Jl. Contoh No.858,Jakarta,Wiraswasta,Cerai Hidup
+320107000859,Penduduk_859,17,Perempuan,Jl. Contoh No.859,Jakarta,PNS,Belum Kawin
+320187000860,Penduduk_860,86,Perempuan,Jl. Contoh No.860,Medan,Guru,Cerai Hidup
+320183000861,Penduduk_861,44,Perempuan,Jl. Contoh No.861,Bandung,Petani,Belum Kawin
+320163000862,Penduduk_862,25,Perempuan,Jl. Contoh No.862,Surabaya,Pengangguran,Kawin
+320161000863,Penduduk_863,17,Perempuan,Jl. Contoh No.863,Yogyakarta,Dokter,Cerai Mati
+320191000864,Penduduk_864,13,Laki-laki,Jl. Contoh No.864,Jakarta,PNS,Cerai Hidup
+320114000865,Penduduk_865,84,Laki-laki,Jl. Contoh No.865,Yogyakarta,Mahasiswa,Cerai Mati
+320143000866,Penduduk_866,25,Perempuan,Jl. Contoh No.866,Bandung,Dokter,Cerai Mati
+320197000867,Penduduk_867,68,Perempuan,Jl. Contoh No.867,Yogyakarta,Pelajar,Cerai Hidup
+320160000868,Penduduk_868,10,Laki-laki,Jl. Contoh No.868,Makassar,Guru,Cerai Hidup
+320119000869,Penduduk_869,67,Perempuan,Jl. Contoh No.869,Jakarta,Pengangguran,Kawin
+320144000870,Penduduk_870,18,Laki-laki,Jl. Contoh No.870,Bandung,PNS,Belum Kawin
+320175000871,Penduduk_871,86,Laki-laki,Jl. Contoh No.871,Bandung,Dokter,Belum Kawin
+320185000872,Penduduk_872,34,Laki-laki,Jl. Contoh No.872,Surabaya,Pengangguran,Cerai Mati
+320175000873,Penduduk_873,8,Perempuan,Jl. Contoh No.873,Surabaya,PNS,Cerai Hidup
+320187000874,Penduduk_874,40,Perempuan,Jl. Contoh No.874,Makassar,Dokter,Kawin
+320109000875,Penduduk_875,83,Laki-laki,Jl. Contoh No.875,Bandung,Mahasiswa,Kawin
+320172000876,Penduduk_876,42,Laki-laki,Jl. Contoh No.876,Denpasar,Pelajar,Kawin
+320138000877,Penduduk_877,41,Laki-laki,Jl. Contoh No.877,Bandung,Pelajar,Kawin
+320178000878,Penduduk_878,6,Laki-laki,Jl. Contoh No.878,Surabaya,Petani,Kawin
+320142000879,Penduduk_879,52,Laki-laki,Jl. Contoh No.879,Denpasar,Dokter,Belum Kawin
+320123000880,Penduduk_880,26,Perempuan,Jl. Contoh No.880,Jakarta,PNS,Belum Kawin
+320187000881,Penduduk_881,64,Laki-laki,Jl. Contoh No.881,Jakarta,Pelajar,Belum Kawin
+320150000882,Penduduk_882,59,Perempuan,Jl. Contoh No.882,Yogyakarta,Guru,Cerai Hidup
+320118000883,Penduduk_883,56,Laki-laki,Jl. Contoh No.883,Medan,Pelajar,Cerai Mati
+320146000884,Penduduk_884,59,Perempuan,Jl. Contoh No.884,Surabaya,Wiraswasta,Kawin
+320102000885,Penduduk_885,70,Perempuan,Jl. Contoh No.885,Medan,Wiraswasta,Cerai Hidup
+320140000886,Penduduk_886,33,Perempuan,Jl. Contoh No.886,Denpasar,Pelajar,Kawin
+320112000887,Penduduk_887,53,Perempuan,Jl. Contoh No.887,Surabaya,Dokter,Belum Kawin
+320162000888,Penduduk_888,22,Perempuan,Jl. Contoh No.888,Makassar,Petani,Cerai Hidup
+320139000889,Penduduk_889,21,Perempuan,Jl. Contoh No.889,Bandung,Pelajar,Belum Kawin
+320140000890,Penduduk_890,70,Laki-laki,Jl. Contoh No.890,Makassar,Mahasiswa,Kawin
+320105000891,Penduduk_891,70,Perempuan,Jl. Contoh No.891,Denpasar,Pengangguran,Kawin
+320122000892,Penduduk_892,4,Laki-laki,Jl. Contoh No.892,Surabaya,PNS,Cerai Mati
+320105000893,Penduduk_893,75,Perempuan,Jl. Contoh No.893,Denpasar,Petani,Kawin
+320182000894,Penduduk_894,62,Perempuan,Jl. Contoh No.894,Bandung,Mahasiswa,Belum Kawin
+320101000895,Penduduk_895,62,Laki-laki,Jl. Contoh No.895,Jakarta,Petani,Kawin
+320145000896,Penduduk_896,24,Perempuan,Jl. Contoh No.896,Jakarta,Mahasiswa,Cerai Mati
+320114000897,Penduduk_897,55,Laki-laki,Jl. Contoh No.897,Denpasar,PNS,Cerai Mati
+320192000898,Penduduk_898,9,Laki-laki,Jl. Contoh No.898,Medan,PNS,Belum Kawin
+320166000899,Penduduk_899,3,Laki-laki,Jl. Contoh No.899,Surabaya,Wiraswasta,Cerai Hidup
+320110000900,Penduduk_900,31,Laki-laki,Jl. Contoh No.900,Surabaya,Dokter,Kawin
+320155000901,Penduduk_901,40,Perempuan,Jl. Contoh No.901,Jakarta,Mahasiswa,Cerai Mati
+320189000902,Penduduk_902,36,Perempuan,Jl. Contoh No.902,Yogyakarta,Pengangguran,Kawin
+320189000903,Penduduk_903,24,Laki-laki,Jl. Contoh No.903,Makassar,Wiraswasta,Kawin
+320180000904,Penduduk_904,6,Perempuan,Jl. Contoh No.904,Yogyakarta,Mahasiswa,Cerai Hidup
+320116000905,Penduduk_905,66,Perempuan,Jl. Contoh No.905,Bandung,Wiraswasta,Cerai Mati
+320166000906,Penduduk_906,84,Laki-laki,Jl. Contoh No.906,Makassar,PNS,Kawin
+320143000907,Penduduk_907,75,Perempuan,Jl. Contoh No.907,Makassar,Petani,Cerai Mati
+320116000908,Penduduk_908,4,Laki-laki,Jl. Contoh No.908,Denpasar,Guru,Belum Kawin
+320170000909,Penduduk_909,79,Laki-laki,Jl. Contoh No.909,Jakarta,Wiraswasta,Belum Kawin
+320112000910,Penduduk_910,6,Perempuan,Jl. Contoh No.910,Yogyakarta,Mahasiswa,Kawin
+320130000911,Penduduk_911,51,Perempuan,Jl. Contoh No.911,Yogyakarta,Mahasiswa,Cerai Mati
+320177000912,Penduduk_912,62,Perempuan,Jl. Contoh No.912,Jakarta,Guru,Kawin
+320191000913,Penduduk_913,57,Laki-laki,Jl. Contoh No.913,Yogyakarta,Dokter,Cerai Mati
+320192000914,Penduduk_914,66,Laki-laki,Jl. Contoh No.914,Jakarta,Pengangguran,Cerai Mati
+320150000915,Penduduk_915,79,Perempuan,Jl. Contoh No.915,Denpasar,PNS,Cerai Hidup
+320149000916,Penduduk_916,75,Perempuan,Jl. Contoh No.916,Medan,Mahasiswa,Cerai Hidup
+320149000917,Penduduk_917,8,Perempuan,Jl. Contoh No.917,Makassar,Pelajar,Cerai Hidup
+320134000918,Penduduk_918,26,Perempuan,Jl. Contoh No.918,Denpasar,Petani,Kawin
+320103000919,Penduduk_919,51,Laki-laki,Jl. Contoh No.919,Surabaya,Wiraswasta,Cerai Hidup
+320190000920,Penduduk_920,45,Perempuan,Jl. Contoh No.920,Bandung,Dokter,Cerai Hidup
+320196000921,Penduduk_921,44,Laki-laki,Jl. Contoh No.921,Medan,Pengangguran,Belum Kawin
+320112000922,Penduduk_922,5,Laki-laki,Jl. Contoh No.922,Surabaya,Guru,Cerai Mati
+320111000923,Penduduk_923,70,Perempuan,Jl. Contoh No.923,Makassar,Petani,Cerai Mati
+320195000924,Penduduk_924,26,Perempuan,Jl. Contoh No.924,Yogyakarta,PNS,Cerai Hidup
+320108000925,Penduduk_925,68,Perempuan,Jl. Contoh No.925,Jakarta,Dokter,Cerai Mati
+320123000926,Penduduk_926,19,Laki-laki,Jl. Contoh No.926,Makassar,Pengangguran,Belum Kawin
+320168000927,Penduduk_927,84,Perempuan,Jl. Contoh No.927,Denpasar,Wiraswasta,Belum Kawin
+320147000928,Penduduk_928,20,Perempuan,Jl. Contoh No.928,Bandung,Wiraswasta,Cerai Hidup
+320140000929,Penduduk_929,12,Laki-laki,Jl. Contoh No.929,Denpasar,Guru,Belum Kawin
+320111000930,Penduduk_930,47,Perempuan,Jl. Contoh No.930,Medan,Pelajar,Cerai Mati
+320110000931,Penduduk_931,1,Laki-laki,Jl. Contoh No.931,Medan,Guru,Kawin
+320158000932,Penduduk_932,14,Perempuan,Jl. Contoh No.932,Bandung,PNS,Cerai Mati
+320109000933,Penduduk_933,64,Laki-laki,Jl. Contoh No.933,Surabaya,Dokter,Kawin
+320171000934,Penduduk_934,38,Perempuan,Jl. Contoh No.934,Surabaya,Dokter,Cerai Hidup
+320135000935,Penduduk_935,37,Perempuan,Jl. Contoh No.935,Medan,Mahasiswa,Kawin
+320142000936,Penduduk_936,11,Laki-laki,Jl. Contoh No.936,Medan,Pelajar,Belum Kawin
+320145000937,Penduduk_937,77,Laki-laki,Jl. Contoh No.937,Yogyakarta,Pelajar,Cerai Mati
+320101000938,Penduduk_938,3,Perempuan,Jl. Contoh No.938,Jakarta,Dokter,Kawin
+320115000939,Penduduk_939,33,Laki-laki,Jl. Contoh No.939,Yogyakarta,Dokter,Cerai Mati
+320141000940,Penduduk_940,6,Laki-laki,Jl. Contoh No.940,Yogyakarta,Petani,Cerai Hidup
+320155000941,Penduduk_941,50,Laki-laki,Jl. Contoh No.941,Surabaya,Pengangguran,Cerai Hidup
+320101000942,Penduduk_942,10,Laki-laki,Jl. Contoh No.942,Bandung,Petani,Belum Kawin
+320145000943,Penduduk_943,5,Perempuan,Jl. Contoh No.943,Surabaya,Petani,Cerai Hidup
+320136000944,Penduduk_944,23,Perempuan,Jl. Contoh No.944,Jakarta,Pelajar,Kawin
+320151000945,Penduduk_945,10,Laki-laki,Jl. Contoh No.945,Denpasar,Mahasiswa,Cerai Hidup
+320185000946,Penduduk_946,44,Laki-laki,Jl. Contoh No.946,Medan,Wiraswasta,Belum Kawin
+320137000947,Penduduk_947,2,Laki-laki,Jl. Contoh No.947,Medan,Petani,Cerai Mati
+320112000948,Penduduk_948,13,Laki-laki,Jl. Contoh No.948,Jakarta,Mahasiswa,Cerai Mati
+320166000949,Penduduk_949,40,Perempuan,Jl. Contoh No.949,Yogyakarta,Guru,Cerai Hidup
+320108000950,Penduduk_950,2,Perempuan,Jl. Contoh No.950,Bandung,PNS,Kawin
+320164000951,Penduduk_951,84,Laki-laki,Jl. Contoh No.951,Medan,Petani,Belum Kawin
+320183000952,Penduduk_952,65,Laki-laki,Jl. Contoh No.952,Makassar,Guru,Kawin
+320129000953,Penduduk_953,63,Laki-laki,Jl. Contoh No.953,Yogyakarta,Wiraswasta,Belum Kawin
+320106000954,Penduduk_954,73,Perempuan,Jl. Contoh No.954,Medan,PNS,Cerai Hidup
+320132000955,Penduduk_955,17,Laki-laki,Jl. Contoh No.955,Makassar,PNS,Belum Kawin
+320181000956,Penduduk_956,9,Perempuan,Jl. Contoh No.956,Jakarta,Wiraswasta,Belum Kawin
+320161000957,Penduduk_957,75,Laki-laki,Jl. Contoh No.957,Jakarta,Petani,Cerai Hidup
+320134000958,Penduduk_958,15,Perempuan,Jl. Contoh No.958,Yogyakarta,Pelajar,Kawin
+320196000959,Penduduk_959,24,Laki-laki,Jl. Contoh No.959,Medan,Wiraswasta,Cerai Hidup
+320108000960,Penduduk_960,38,Perempuan,Jl. Contoh No.960,Surabaya,Wiraswasta,Belum Kawin
+320118000961,Penduduk_961,35,Laki-laki,Jl. Contoh No.961,Makassar,Wiraswasta,Cerai Hidup
+320145000962,Penduduk_962,49,Laki-laki,Jl. Contoh No.962,Bandung,PNS,Belum Kawin
+320125000963,Penduduk_963,69,Laki-laki,Jl. Contoh No.963,Medan,Pengangguran,Cerai Hidup
+320127000964,Penduduk_964,62,Perempuan,Jl. Contoh No.964,Bandung,Mahasiswa,Cerai Mati
+320114000965,Penduduk_965,60,Laki-laki,Jl. Contoh No.965,Medan,Guru,Cerai Mati
+320178000966,Penduduk_966,50,Perempuan,Jl. Contoh No.966,Surabaya,Pelajar,Cerai Hidup
+320126000967,Penduduk_967,78,Perempuan,Jl. Contoh No.967,Surabaya,Petani,Kawin
+320198000968,Penduduk_968,75,Laki-laki,Jl. Contoh No.968,Yogyakarta,Petani,Belum Kawin
+320182000969,Penduduk_969,9,Laki-laki,Jl. Contoh No.969,Yogyakarta,Guru,Cerai Mati
+320190000970,Penduduk_970,34,Laki-laki,Jl. Contoh No.970,Surabaya,Mahasiswa,Kawin
+320192000971,Penduduk_971,76,Perempuan,Jl. Contoh No.971,Denpasar,Wiraswasta,Belum Kawin
+320159000972,Penduduk_972,35,Laki-laki,Jl. Contoh No.972,Surabaya,Pengangguran,Cerai Mati
+320182000973,Penduduk_973,1,Perempuan,Jl. Contoh No.973,Jakarta,Pelajar,Cerai Mati
+320190000974,Penduduk_974,40,Perempuan,Jl. Contoh No.974,Jakarta,Petani,Cerai Hidup
+320188000975,Penduduk_975,64,Laki-laki,Jl. Contoh No.975,Denpasar,Guru,Belum Kawin
+320127000976,Penduduk_976,22,Laki-laki,Jl. Contoh No.976,Makassar,Dokter,Kawin
+320191000977,Penduduk_977,60,Laki-laki,Jl. Contoh No.977,Bandung,Pengangguran,Kawin
+320105000978,Penduduk_978,64,Laki-laki,Jl. Contoh No.978,Medan,Guru,Kawin
+320143000979,Penduduk_979,72,Laki-laki,Jl. Contoh No.979,Medan,Pengangguran,Belum Kawin
+320111000980,Penduduk_980,11,Laki-laki,Jl. Contoh No.980,Denpasar,Petani,Kawin
+320177000981,Penduduk_981,14,Perempuan,Jl. Contoh No.981,Jakarta,Wiraswasta,Kawin
+320161000982,Penduduk_982,60,Perempuan,Jl. Contoh No.982,Yogyakarta,Dokter,Kawin
+320122000983,Penduduk_983,30,Perempuan,Jl. Contoh No.983,Medan,Mahasiswa,Cerai Hidup
+320121000984,Penduduk_984,35,Laki-laki,Jl. Contoh No.984,Jakarta,Pelajar,Cerai Hidup
+320166000985,Penduduk_985,85,Perempuan,Jl. Contoh No.985,Makassar,Mahasiswa,Belum Kawin
+320160000986,Penduduk_986,37,Perempuan,Jl. Contoh No.986,Bandung,Mahasiswa,Belum Kawin
+320102000987,Penduduk_987,5,Perempuan,Jl. Contoh No.987,Makassar,Guru,Kawin
+320123000988,Penduduk_988,83,Perempuan,Jl. Contoh No.988,Denpasar,Pengangguran,Cerai Hidup
+320138000989,Penduduk_989,78,Perempuan,Jl. Contoh No.989,Surabaya,Pelajar,Cerai Mati
+320144000990,Penduduk_990,26,Laki-laki,Jl. Contoh No.990,Surabaya,Pelajar,Cerai Mati
+320133000991,Penduduk_991,62,Laki-laki,Jl. Contoh No.991,Surabaya,Petani,Kawin
+320125000992,Penduduk_992,4,Perempuan,Jl. Contoh No.992,Makassar,Petani,Kawin
+320106000993,Penduduk_993,89,Perempuan,Jl. Contoh No.993,Medan,Pelajar,Cerai Hidup
+320120000994,Penduduk_994,42,Perempuan,Jl. Contoh No.994,Bandung,Dokter,Cerai Hidup
+320142000995,Penduduk_995,89,Laki-laki,Jl. Contoh No.995,Surabaya,PNS,Cerai Hidup
+320158000996,Penduduk_996,18,Laki-laki,Jl. Contoh No.996,Denpasar,Petani,Belum Kawin
+320155000997,Penduduk_997,40,Perempuan,Jl. Contoh No.997,Denpasar,PNS,Belum Kawin
+320157000998,Penduduk_998,72,Laki-laki,Jl. Contoh No.998,Surabaya,Guru,Kawin
+320179000999,Penduduk_999,39,Laki-laki,Jl. Contoh No.999,Surabaya,Dokter,Belum Kawin
+320194001000,Penduduk_1000,14,Perempuan,Jl. Contoh No.1000,Bandung,Pelajar,Cerai Hidup
+320172001001,Penduduk_1001,32,Laki-laki,Jl. Contoh No.1001,Surabaya,Dokter,Cerai Hidup
+320105001002,Penduduk_1002,51,Laki-laki,Jl. Contoh No.1002,Bandung,Petani,Belum Kawin
+320161001003,Penduduk_1003,38,Perempuan,Jl. Contoh No.1003,Denpasar,Mahasiswa,Cerai Mati
+320125001004,Penduduk_1004,23,Laki-laki,Jl. Contoh No.1004,Surabaya,Guru,Kawin
+320116001005,Penduduk_1005,63,Laki-laki,Jl. Contoh No.1005,Makassar,Pelajar,Cerai Mati
+320169001006,Penduduk_1006,15,Perempuan,Jl. Contoh No.1006,Yogyakarta,Wiraswasta,Kawin
+320126001007,Penduduk_1007,25,Laki-laki,Jl. Contoh No.1007,Makassar,Guru,Cerai Mati
+320127001008,Penduduk_1008,17,Laki-laki,Jl. Contoh No.1008,Denpasar,Pengangguran,Belum Kawin
+320186001009,Penduduk_1009,66,Perempuan,Jl. Contoh No.1009,Bandung,PNS,Kawin
+320143001010,Penduduk_1010,78,Perempuan,Jl. Contoh No.1010,Makassar,Dokter,Kawin
+320102001011,Penduduk_1011,53,Perempuan,Jl. Contoh No.1011,Bandung,Pelajar,Kawin
+320164001012,Penduduk_1012,51,Laki-laki,Jl. Contoh No.1012,Makassar,Guru,Cerai Hidup
+320176001013,Penduduk_1013,39,Perempuan,Jl. Contoh No.1013,Makassar,Dokter,Cerai Hidup
+320171001014,Penduduk_1014,51,Laki-laki,Jl. Contoh No.1014,Bandung,Pelajar,Cerai Mati
+320117001015,Penduduk_1015,70,Perempuan,Jl. Contoh No.1015,Medan,Petani,Belum Kawin
+320169001016,Penduduk_1016,6,Laki-laki,Jl. Contoh No.1016,Makassar,Guru,Cerai Hidup
+320148001017,Penduduk_1017,67,Perempuan,Jl. Contoh No.1017,Surabaya,Petani,Kawin
+320155001018,Penduduk_1018,7,Perempuan,Jl. Contoh No.1018,Yogyakarta,Guru,Cerai Hidup
+320108001019,Penduduk_1019,51,Perempuan,Jl. Contoh No.1019,Denpasar,Petani,Belum Kawin
+320181001020,Penduduk_1020,72,Perempuan,Jl. Contoh No.1020,Medan,Pengangguran,Cerai Hidup
+320153001021,Penduduk_1021,42,Laki-laki,Jl. Contoh No.1021,Bandung,Dokter,Kawin
+320126001022,Penduduk_1022,64,Perempuan,Jl. Contoh No.1022,Medan,Wiraswasta,Cerai Mati
+320174001023,Penduduk_1023,15,Perempuan,Jl. Contoh No.1023,Jakarta,Guru,Kawin
+320117001024,Penduduk_1024,29,Laki-laki,Jl. Contoh No.1024,Jakarta,Pengangguran,Belum Kawin
+320175001025,Penduduk_1025,33,Perempuan,Jl. Contoh No.1025,Makassar,Guru,Cerai Mati
+320141001026,Penduduk_1026,27,Laki-laki,Jl. Contoh No.1026,Makassar,Petani,Cerai Hidup
+320188001027,Penduduk_1027,36,Perempuan,Jl. Contoh No.1027,Surabaya,Pelajar,Cerai Hidup
+320145001028,Penduduk_1028,29,Perempuan,Jl. Contoh No.1028,Yogyakarta,Guru,Cerai Hidup
+320115001029,Penduduk_1029,38,Perempuan,Jl. Contoh No.1029,Denpasar,Pengangguran,Cerai Mati
+320155001030,Penduduk_1030,57,Laki-laki,Jl. Contoh No.1030,Medan,Petani,Kawin
+320132001031,Penduduk_1031,27,Perempuan,Jl. Contoh No.1031,Jakarta,Mahasiswa,Cerai Mati
+320191001032,Penduduk_1032,55,Perempuan,Jl. Contoh No.1032,Makassar,Petani,Cerai Mati
+320135001033,Penduduk_1033,33,Perempuan,Jl. Contoh No.1033,Denpasar,Dokter,Belum Kawin
+320198001034,Penduduk_1034,68,Laki-laki,Jl. Contoh No.1034,Medan,Wiraswasta,Cerai Mati
+320110001035,Penduduk_1035,86,Laki-laki,Jl. Contoh No.1035,Makassar,Mahasiswa,Cerai Hidup
+320120001036,Penduduk_1036,66,Perempuan,Jl. Contoh No.1036,Makassar,Dokter,Kawin
+320166001037,Penduduk_1037,10,Laki-laki,Jl. Contoh No.1037,Jakarta,Dokter,Kawin
+320198001038,Penduduk_1038,5,Perempuan,Jl. Contoh No.1038,Jakarta,Dokter,Kawin
+320117001039,Penduduk_1039,74,Perempuan,Jl. Contoh No.1039,Makassar,Pelajar,Cerai Hidup
+320152001040,Penduduk_1040,38,Perempuan,Jl. Contoh No.1040,Bandung,Dokter,Cerai Hidup
+320196001041,Penduduk_1041,13,Perempuan,Jl. Contoh No.1041,Makassar,Pelajar,Cerai Hidup
+320143001042,Penduduk_1042,31,Perempuan,Jl. Contoh No.1042,Denpasar,Dokter,Cerai Hidup
+320182001043,Penduduk_1043,47,Perempuan,Jl. Contoh No.1043,Makassar,PNS,Cerai Hidup
+320166001044,Penduduk_1044,88,Perempuan,Jl. Contoh No.1044,Surabaya,Pengangguran,Cerai Mati
+320103001045,Penduduk_1045,52,Laki-laki,Jl. Contoh No.1045,Yogyakarta,Mahasiswa,Cerai Hidup
+320199001046,Penduduk_1046,56,Laki-laki,Jl. Contoh No.1046,Surabaya,PNS,Cerai Hidup
+320195001047,Penduduk_1047,15,Laki-laki,Jl. Contoh No.1047,Surabaya,Dokter,Cerai Hidup
+320175001048,Penduduk_1048,29,Laki-laki,Jl. Contoh No.1048,Bandung,Mahasiswa,Cerai Hidup
+320174001049,Penduduk_1049,8,Laki-laki,Jl. Contoh No.1049,Bandung,Mahasiswa,Kawin
+320177001050,Penduduk_1050,5,Laki-laki,Jl. Contoh No.1050,Makassar,Guru,Cerai Hidup
+320192001051,Penduduk_1051,29,Laki-laki,Jl. Contoh No.1051,Surabaya,Wiraswasta,Cerai Mati
+320168001052,Penduduk_1052,47,Perempuan,Jl. Contoh No.1052,Bandung,PNS,Cerai Mati
+320184001053,Penduduk_1053,68,Perempuan,Jl. Contoh No.1053,Jakarta,Wiraswasta,Cerai Mati
+320177001054,Penduduk_1054,76,Perempuan,Jl. Contoh No.1054,Makassar,Mahasiswa,Belum Kawin
+320121001055,Penduduk_1055,45,Perempuan,Jl. Contoh No.1055,Denpasar,Pelajar,Kawin
+320152001056,Penduduk_1056,2,Laki-laki,Jl. Contoh No.1056,Yogyakarta,Mahasiswa,Cerai Hidup
+320170001057,Penduduk_1057,27,Laki-laki,Jl. Contoh No.1057,Medan,Wiraswasta,Belum Kawin
+320189001058,Penduduk_1058,36,Perempuan,Jl. Contoh No.1058,Makassar,PNS,Cerai Hidup
+320145001059,Penduduk_1059,36,Perempuan,Jl. Contoh No.1059,Medan,Dokter,Belum Kawin
+320126001060,Penduduk_1060,26,Laki-laki,Jl. Contoh No.1060,Surabaya,Guru,Belum Kawin
+320146001061,Penduduk_1061,43,Perempuan,Jl. Contoh No.1061,Yogyakarta,Guru,Cerai Mati
+320181001062,Penduduk_1062,27,Perempuan,Jl. Contoh No.1062,Medan,Guru,Cerai Mati
+320184001063,Penduduk_1063,69,Perempuan,Jl. Contoh No.1063,Surabaya,Dokter,Belum Kawin
+320169001064,Penduduk_1064,20,Perempuan,Jl. Contoh No.1064,Jakarta,Guru,Cerai Mati
+320142001065,Penduduk_1065,11,Laki-laki,Jl. Contoh No.1065,Medan,PNS,Belum Kawin
+320148001066,Penduduk_1066,74,Perempuan,Jl. Contoh No.1066,Yogyakarta,Dokter,Kawin
+320199001067,Penduduk_1067,38,Perempuan,Jl. Contoh No.1067,Makassar,Guru,Cerai Mati
+320140001068,Penduduk_1068,6,Laki-laki,Jl. Contoh No.1068,Surabaya,Dokter,Cerai Mati
+320164001069,Penduduk_1069,72,Laki-laki,Jl. Contoh No.1069,Makassar,Wiraswasta,Cerai Mati
+320134001070,Penduduk_1070,23,Perempuan,Jl. Contoh No.1070,Yogyakarta,Pengangguran,Kawin
+320102001071,Penduduk_1071,47,Laki-laki,Jl. Contoh No.1071,Bandung,Pengangguran,Belum Kawin
+320110001072,Penduduk_1072,46,Perempuan,Jl. Contoh No.1072,Surabaya,PNS,Cerai Hidup
+320153001073,Penduduk_1073,12,Perempuan,Jl. Contoh No.1073,Medan,Petani,Cerai Mati
+320111001074,Penduduk_1074,13,Laki-laki,Jl. Contoh No.1074,Surabaya,Pelajar,Belum Kawin
+320150001075,Penduduk_1075,62,Perempuan,Jl. Contoh No.1075,Makassar,Guru,Kawin
+320191001076,Penduduk_1076,82,Perempuan,Jl. Contoh No.1076,Jakarta,Pelajar,Cerai Hidup
+320166001077,Penduduk_1077,89,Perempuan,Jl. Contoh No.1077,Surabaya,Dokter,Cerai Mati
+320175001078,Penduduk_1078,60,Perempuan,Jl. Contoh No.1078,Medan,Pelajar,Kawin
+320193001079,Penduduk_1079,43,Laki-laki,Jl. Contoh No.1079,Bandung,PNS,Kawin
+320163001080,Penduduk_1080,76,Laki-laki,Jl. Contoh No.1080,Denpasar,PNS,Cerai Hidup
+320186001081,Penduduk_1081,68,Perempuan,Jl. Contoh No.1081,Jakarta,Mahasiswa,Belum Kawin
+320178001082,Penduduk_1082,5,Laki-laki,Jl. Contoh No.1082,Bandung,Pengangguran,Cerai Mati
+320164001083,Penduduk_1083,37,Perempuan,Jl. Contoh No.1083,Surabaya,Guru,Cerai Mati
+320104001084,Penduduk_1084,72,Perempuan,Jl. Contoh No.1084,Makassar,Mahasiswa,Belum Kawin
+320139001085,Penduduk_1085,31,Perempuan,Jl. Contoh No.1085,Yogyakarta,Pelajar,Belum Kawin
+320199001086,Penduduk_1086,9,Perempuan,Jl. Contoh No.1086,Makassar,Petani,Belum Kawin
+320188001087,Penduduk_1087,51,Perempuan,Jl. Contoh No.1087,Medan,Mahasiswa,Cerai Hidup
+320183001088,Penduduk_1088,29,Laki-laki,Jl. Contoh No.1088,Makassar,Mahasiswa,Cerai Hidup
+320185001089,Penduduk_1089,78,Perempuan,Jl. Contoh No.1089,Jakarta,PNS,Cerai Mati
+320154001090,Penduduk_1090,40,Laki-laki,Jl. Contoh No.1090,Makassar,Petani,Cerai Hidup
+320167001091,Penduduk_1091,41,Laki-laki,Jl. Contoh No.1091,Medan,Dokter,Kawin
+320112001092,Penduduk_1092,86,Perempuan,Jl. Contoh No.1092,Denpasar,Pelajar,Cerai Mati
+320103001093,Penduduk_1093,11,Perempuan,Jl. Contoh No.1093,Surabaya,Mahasiswa,Cerai Hidup
+320140001094,Penduduk_1094,23,Perempuan,Jl. Contoh No.1094,Yogyakarta,Petani,Belum Kawin
+320166001095,Penduduk_1095,1,Perempuan,Jl. Contoh No.1095,Surabaya,Pengangguran,Kawin
+320131001096,Penduduk_1096,46,Perempuan,Jl. Contoh No.1096,Makassar,Guru,Belum Kawin
+320137001097,Penduduk_1097,21,Laki-laki,Jl. Contoh No.1097,Bandung,Petani,Cerai Mati
+320128001098,Penduduk_1098,36,Perempuan,Jl. Contoh No.1098,Surabaya,Pengangguran,Belum Kawin
+320123001099,Penduduk_1099,54,Perempuan,Jl. Contoh No.1099,Denpasar,Pelajar,Cerai Hidup
+320111001100,Penduduk_1100,87,Laki-laki,Jl. Contoh No.1100,Makassar,Petani,Cerai Hidup
+320154001101,Penduduk_1101,57,Laki-laki,Jl. Contoh No.1101,Yogyakarta,Pengangguran,Cerai Mati
+320122001102,Penduduk_1102,1,Perempuan,Jl. Contoh No.1102,Medan,Petani,Belum Kawin
+320157001103,Penduduk_1103,63,Laki-laki,Jl. Contoh No.1103,Denpasar,Petani,Cerai Mati
+320173001104,Penduduk_1104,54,Perempuan,Jl. Contoh No.1104,Makassar,Guru,Belum Kawin
+320137001105,Penduduk_1105,55,Laki-laki,Jl. Contoh No.1105,Denpasar,Pengangguran,Kawin
+320175001106,Penduduk_1106,40,Laki-laki,Jl. Contoh No.1106,Surabaya,Pengangguran,Cerai Hidup
+320105001107,Penduduk_1107,15,Perempuan,Jl. Contoh No.1107,Yogyakarta,Mahasiswa,Cerai Mati
+320129001108,Penduduk_1108,21,Laki-laki,Jl. Contoh No.1108,Medan,Pelajar,Kawin
+320127001109,Penduduk_1109,47,Laki-laki,Jl. Contoh No.1109,Makassar,Guru,Kawin
+320195001110,Penduduk_1110,73,Laki-laki,Jl. Contoh No.1110,Jakarta,Petani,Cerai Mati
+320180001111,Penduduk_1111,53,Laki-laki,Jl. Contoh No.1111,Medan,Petani,Cerai Mati
+320174001112,Penduduk_1112,9,Laki-laki,Jl. Contoh No.1112,Jakarta,Mahasiswa,Kawin
+320199001113,Penduduk_1113,74,Laki-laki,Jl. Contoh No.1113,Denpasar,Pelajar,Belum Kawin
+320135001114,Penduduk_1114,52,Perempuan,Jl. Contoh No.1114,Bandung,PNS,Kawin
+320139001115,Penduduk_1115,57,Perempuan,Jl. Contoh No.1115,Medan,Guru,Cerai Mati
+320190001116,Penduduk_1116,26,Laki-laki,Jl. Contoh No.1116,Denpasar,Mahasiswa,Kawin
+320151001117,Penduduk_1117,41,Perempuan,Jl. Contoh No.1117,Jakarta,Pelajar,Belum Kawin
+320111001118,Penduduk_1118,35,Perempuan,Jl. Contoh No.1118,Surabaya,Guru,Cerai Hidup
+320134001119,Penduduk_1119,63,Perempuan,Jl. Contoh No.1119,Surabaya,Petani,Cerai Hidup
+320165001120,Penduduk_1120,25,Laki-laki,Jl. Contoh No.1120,Bandung,Pelajar,Kawin
+320146001121,Penduduk_1121,75,Perempuan,Jl. Contoh No.1121,Medan,Pelajar,Belum Kawin
+320102001122,Penduduk_1122,38,Laki-laki,Jl. Contoh No.1122,Medan,Dokter,Cerai Hidup
+320176001123,Penduduk_1123,2,Perempuan,Jl. Contoh No.1123,Medan,Pelajar,Kawin
+320174001124,Penduduk_1124,7,Laki-laki,Jl. Contoh No.1124,Denpasar,PNS,Kawin
+320128001125,Penduduk_1125,82,Laki-laki,Jl. Contoh No.1125,Yogyakarta,Pelajar,Belum Kawin
+320108001126,Penduduk_1126,34,Perempuan,Jl. Contoh No.1126,Yogyakarta,PNS,Cerai Mati
+320174001127,Penduduk_1127,17,Perempuan,Jl. Contoh No.1127,Bandung,Petani,Kawin
+320193001128,Penduduk_1128,43,Laki-laki,Jl. Contoh No.1128,Medan,PNS,Cerai Mati
+320143001129,Penduduk_1129,59,Perempuan,Jl. Contoh No.1129,Denpasar,Guru,Cerai Mati
+320198001130,Penduduk_1130,51,Perempuan,Jl. Contoh No.1130,Surabaya,Petani,Cerai Hidup
+320188001131,Penduduk_1131,54,Perempuan,Jl. Contoh No.1131,Jakarta,Petani,Cerai Mati
+320155001132,Penduduk_1132,24,Laki-laki,Jl. Contoh No.1132,Denpasar,PNS,Belum Kawin
+320113001133,Penduduk_1133,25,Laki-laki,Jl. Contoh No.1133,Yogyakarta,Pengangguran,Cerai Hidup
+320167001134,Penduduk_1134,71,Perempuan,Jl. Contoh No.1134,Yogyakarta,Mahasiswa,Cerai Hidup
+320101001135,Penduduk_1135,52,Perempuan,Jl. Contoh No.1135,Surabaya,Wiraswasta,Cerai Hidup
+320163001136,Penduduk_1136,70,Perempuan,Jl. Contoh No.1136,Surabaya,Pengangguran,Kawin
+320163001137,Penduduk_1137,88,Laki-laki,Jl. Contoh No.1137,Jakarta,Pelajar,Kawin
+320136001138,Penduduk_1138,33,Laki-laki,Jl. Contoh No.1138,Surabaya,Dokter,Cerai Mati
+320184001139,Penduduk_1139,49,Perempuan,Jl. Contoh No.1139,Bandung,Wiraswasta,Cerai Hidup
+320140001140,Penduduk_1140,29,Perempuan,Jl. Contoh No.1140,Jakarta,Pelajar,Cerai Hidup
+320187001141,Penduduk_1141,63,Perempuan,Jl. Contoh No.1141,Surabaya,Pengangguran,Belum Kawin
+320154001142,Penduduk_1142,22,Perempuan,Jl. Contoh No.1142,Makassar,Pengangguran,Cerai Mati
+320180001143,Penduduk_1143,26,Perempuan,Jl. Contoh No.1143,Denpasar,Pelajar,Belum Kawin
+320101001144,Penduduk_1144,28,Perempuan,Jl. Contoh No.1144,Surabaya,Petani,Cerai Mati
+320165001145,Penduduk_1145,85,Laki-laki,Jl. Contoh No.1145,Bandung,Pelajar,Cerai Mati
+320124001146,Penduduk_1146,49,Perempuan,Jl. Contoh No.1146,Medan,Dokter,Kawin
+320156001147,Penduduk_1147,71,Laki-laki,Jl. Contoh No.1147,Surabaya,Pengangguran,Kawin
+320108001148,Penduduk_1148,81,Perempuan,Jl. Contoh No.1148,Yogyakarta,Pelajar,Belum Kawin
+320127001149,Penduduk_1149,84,Perempuan,Jl. Contoh No.1149,Yogyakarta,PNS,Cerai Mati
+320164001150,Penduduk_1150,49,Laki-laki,Jl. Contoh No.1150,Yogyakarta,Wiraswasta,Cerai Hidup
+320117001151,Penduduk_1151,20,Laki-laki,Jl. Contoh No.1151,Medan,PNS,Kawin
+320152001152,Penduduk_1152,86,Laki-laki,Jl. Contoh No.1152,Yogyakarta,Dokter,Cerai Hidup
+320106001153,Penduduk_1153,63,Laki-laki,Jl. Contoh No.1153,Makassar,Pelajar,Belum Kawin
+320179001154,Penduduk_1154,61,Perempuan,Jl. Contoh No.1154,Surabaya,Guru,Kawin
+320162001155,Penduduk_1155,49,Laki-laki,Jl. Contoh No.1155,Yogyakarta,Dokter,Kawin
+320193001156,Penduduk_1156,71,Perempuan,Jl. Contoh No.1156,Jakarta,Petani,Cerai Mati
+320137001157,Penduduk_1157,1,Laki-laki,Jl. Contoh No.1157,Medan,PNS,Belum Kawin
+320178001158,Penduduk_1158,13,Perempuan,Jl. Contoh No.1158,Makassar,PNS,Cerai Mati
+320177001159,Penduduk_1159,87,Perempuan,Jl. Contoh No.1159,Jakarta,Mahasiswa,Kawin
+320159001160,Penduduk_1160,51,Perempuan,Jl. Contoh No.1160,Jakarta,Pelajar,Belum Kawin
+320112001161,Penduduk_1161,56,Perempuan,Jl. Contoh No.1161,Jakarta,Petani,Kawin
+320155001162,Penduduk_1162,83,Perempuan,Jl. Contoh No.1162,Jakarta,Guru,Belum Kawin
+320199001163,Penduduk_1163,62,Perempuan,Jl. Contoh No.1163,Surabaya,PNS,Kawin
+320191001164,Penduduk_1164,32,Laki-laki,Jl. Contoh No.1164,Yogyakarta,PNS,Cerai Hidup
+320104001165,Penduduk_1165,30,Perempuan,Jl. Contoh No.1165,Denpasar,Petani,Cerai Hidup
+320146001166,Penduduk_1166,29,Laki-laki,Jl. Contoh No.1166,Surabaya,Dokter,Cerai Mati
+320104001167,Penduduk_1167,49,Laki-laki,Jl. Contoh No.1167,Surabaya,Dokter,Cerai Hidup
+320145001168,Penduduk_1168,45,Perempuan,Jl. Contoh No.1168,Makassar,Pelajar,Kawin
+320158001169,Penduduk_1169,30,Laki-laki,Jl. Contoh No.1169,Makassar,Pengangguran,Kawin
+320110001170,Penduduk_1170,16,Perempuan,Jl. Contoh No.1170,Yogyakarta,Mahasiswa,Cerai Hidup
+320187001171,Penduduk_1171,40,Laki-laki,Jl. Contoh No.1171,Denpasar,PNS,Cerai Mati
+320150001172,Penduduk_1172,19,Perempuan,Jl. Contoh No.1172,Makassar,Pengangguran,Cerai Hidup
+320164001173,Penduduk_1173,18,Laki-laki,Jl. Contoh No.1173,Yogyakarta,Pengangguran,Belum Kawin
+320185001174,Penduduk_1174,1,Perempuan,Jl. Contoh No.1174,Yogyakarta,Mahasiswa,Belum Kawin
+320187001175,Penduduk_1175,78,Perempuan,Jl. Contoh No.1175,Bandung,Pengangguran,Belum Kawin
+320198001176,Penduduk_1176,47,Perempuan,Jl. Contoh No.1176,Denpasar,Pengangguran,Cerai Hidup
+320198001177,Penduduk_1177,66,Perempuan,Jl. Contoh No.1177,Makassar,Dokter,Cerai Hidup
+320144001178,Penduduk_1178,38,Laki-laki,Jl. Contoh No.1178,Denpasar,Dokter,Cerai Hidup
+320182001179,Penduduk_1179,51,Perempuan,Jl. Contoh No.1179,Surabaya,Wiraswasta,Belum Kawin
+320156001180,Penduduk_1180,63,Laki-laki,Jl. Contoh No.1180,Surabaya,Guru,Cerai Mati
+320191001181,Penduduk_1181,4,Laki-laki,Jl. Contoh No.1181,Denpasar,Pelajar,Kawin
+320103001182,Penduduk_1182,1,Laki-laki,Jl. Contoh No.1182,Bandung,Pengangguran,Cerai Hidup
+320109001183,Penduduk_1183,8,Perempuan,Jl. Contoh No.1183,Bandung,Wiraswasta,Cerai Mati
+320151001184,Penduduk_1184,29,Laki-laki,Jl. Contoh No.1184,Denpasar,Guru,Kawin
+320148001185,Penduduk_1185,55,Laki-laki,Jl. Contoh No.1185,Makassar,Wiraswasta,Kawin
+320119001186,Penduduk_1186,3,Laki-laki,Jl. Contoh No.1186,Medan,Wiraswasta,Kawin
+320154001187,Penduduk_1187,32,Perempuan,Jl. Contoh No.1187,Bandung,Pelajar,Cerai Mati
+320136001188,Penduduk_1188,10,Perempuan,Jl. Contoh No.1188,Jakarta,Pelajar,Cerai Mati
+320133001189,Penduduk_1189,74,Laki-laki,Jl. Contoh No.1189,Surabaya,Petani,Belum Kawin
+320104001190,Penduduk_1190,83,Perempuan,Jl. Contoh No.1190,Denpasar,Mahasiswa,Cerai Mati
+320122001191,Penduduk_1191,34,Perempuan,Jl. Contoh No.1191,Jakarta,Mahasiswa,Cerai Mati
+320131001192,Penduduk_1192,87,Laki-laki,Jl. Contoh No.1192,Denpasar,Petani,Cerai Mati
+320180001193,Penduduk_1193,55,Laki-laki,Jl. Contoh No.1193,Yogyakarta,Petani,Kawin
+320130001194,Penduduk_1194,32,Perempuan,Jl. Contoh No.1194,Surabaya,Dokter,Cerai Hidup
+320116001195,Penduduk_1195,50,Laki-laki,Jl. Contoh No.1195,Surabaya,Guru,Belum Kawin
+320191001196,Penduduk_1196,7,Perempuan,Jl. Contoh No.1196,Bandung,Wiraswasta,Cerai Hidup
+320130001197,Penduduk_1197,8,Perempuan,Jl. Contoh No.1197,Bandung,Pengangguran,Cerai Hidup
+320178001198,Penduduk_1198,65,Perempuan,Jl. Contoh No.1198,Jakarta,Petani,Cerai Mati
+320134001199,Penduduk_1199,57,Perempuan,Jl. Contoh No.1199,Yogyakarta,PNS,Belum Kawin
+320105001200,Penduduk_1200,67,Perempuan,Jl. Contoh No.1200,Denpasar,Mahasiswa,Cerai Hidup
+320148001201,Penduduk_1201,88,Perempuan,Jl. Contoh No.1201,Yogyakarta,Petani,Cerai Hidup
+320160001202,Penduduk_1202,87,Laki-laki,Jl. Contoh No.1202,Surabaya,PNS,Belum Kawin
+320183001203,Penduduk_1203,59,Laki-laki,Jl. Contoh No.1203,Jakarta,PNS,Cerai Mati
+320136001204,Penduduk_1204,72,Perempuan,Jl. Contoh No.1204,Medan,PNS,Cerai Hidup
+320106001205,Penduduk_1205,54,Perempuan,Jl. Contoh No.1205,Jakarta,Dokter,Kawin
+320172001206,Penduduk_1206,67,Perempuan,Jl. Contoh No.1206,Makassar,Dokter,Cerai Hidup
+320154001207,Penduduk_1207,51,Laki-laki,Jl. Contoh No.1207,Jakarta,Pengangguran,Kawin
+320105001208,Penduduk_1208,8,Perempuan,Jl. Contoh No.1208,Yogyakarta,Pengangguran,Cerai Mati
+320172001209,Penduduk_1209,34,Laki-laki,Jl. Contoh No.1209,Makassar,PNS,Cerai Hidup
+320104001210,Penduduk_1210,35,Perempuan,Jl. Contoh No.1210,Makassar,Guru,Belum Kawin
+320171001211,Penduduk_1211,88,Perempuan,Jl. Contoh No.1211,Makassar,Dokter,Belum Kawin
+320127001212,Penduduk_1212,78,Laki-laki,Jl. Contoh No.1212,Medan,Wiraswasta,Cerai Hidup
+320128001213,Penduduk_1213,32,Laki-laki,Jl. Contoh No.1213,Jakarta,PNS,Cerai Mati
+320133001214,Penduduk_1214,46,Perempuan,Jl. Contoh No.1214,Yogyakarta,Wiraswasta,Cerai Mati
+320142001215,Penduduk_1215,16,Perempuan,Jl. Contoh No.1215,Jakarta,Wiraswasta,Belum Kawin
+320112001216,Penduduk_1216,68,Perempuan,Jl. Contoh No.1216,Medan,PNS,Cerai Hidup
+320127001217,Penduduk_1217,37,Laki-laki,Jl. Contoh No.1217,Surabaya,Mahasiswa,Cerai Mati
+320188001218,Penduduk_1218,54,Laki-laki,Jl. Contoh No.1218,Bandung,Guru,Belum Kawin
+320138001219,Penduduk_1219,85,Laki-laki,Jl. Contoh No.1219,Yogyakarta,PNS,Kawin
+320116001220,Penduduk_1220,14,Laki-laki,Jl. Contoh No.1220,Yogyakarta,Pengangguran,Cerai Hidup
+320155001221,Penduduk_1221,55,Laki-laki,Jl. Contoh No.1221,Jakarta,PNS,Kawin
+320177001222,Penduduk_1222,48,Laki-laki,Jl. Contoh No.1222,Bandung,Dokter,Kawin
+320146001223,Penduduk_1223,82,Perempuan,Jl. Contoh No.1223,Denpasar,PNS,Cerai Mati
+320186001224,Penduduk_1224,7,Perempuan,Jl. Contoh No.1224,Denpasar,Mahasiswa,Cerai Mati
+320189001225,Penduduk_1225,74,Laki-laki,Jl. Contoh No.1225,Medan,Dokter,Cerai Mati
+320108001226,Penduduk_1226,7,Perempuan,Jl. Contoh No.1226,Denpasar,Pengangguran,Cerai Hidup
+320197001227,Penduduk_1227,33,Perempuan,Jl. Contoh No.1227,Yogyakarta,Pelajar,Kawin
+320164001228,Penduduk_1228,23,Laki-laki,Jl. Contoh No.1228,Denpasar,Pelajar,Cerai Hidup
+320119001229,Penduduk_1229,85,Perempuan,Jl. Contoh No.1229,Surabaya,Wiraswasta,Cerai Mati
+320180001230,Penduduk_1230,19,Laki-laki,Jl. Contoh No.1230,Surabaya,Guru,Kawin
+320102001231,Penduduk_1231,19,Laki-laki,Jl. Contoh No.1231,Surabaya,Wiraswasta,Cerai Hidup
+320183001232,Penduduk_1232,36,Perempuan,Jl. Contoh No.1232,Denpasar,Mahasiswa,Cerai Hidup
+320140001233,Penduduk_1233,29,Laki-laki,Jl. Contoh No.1233,Medan,Petani,Belum Kawin
+320120001234,Penduduk_1234,60,Laki-laki,Jl. Contoh No.1234,Makassar,Pengangguran,Cerai Hidup
+320108001235,Penduduk_1235,82,Laki-laki,Jl. Contoh No.1235,Makassar,Guru,Cerai Mati
+320190001236,Penduduk_1236,2,Laki-laki,Jl. Contoh No.1236,Bandung,Pengangguran,Cerai Hidup
+320148001237,Penduduk_1237,1,Laki-laki,Jl. Contoh No.1237,Makassar,Pelajar,Kawin
+320168001238,Penduduk_1238,47,Laki-laki,Jl. Contoh No.1238,Makassar,Wiraswasta,Cerai Hidup
+320163001239,Penduduk_1239,69,Laki-laki,Jl. Contoh No.1239,Surabaya,Pengangguran,Belum Kawin
+320107001240,Penduduk_1240,20,Laki-laki,Jl. Contoh No.1240,Surabaya,Pelajar,Kawin
+320121001241,Penduduk_1241,11,Perempuan,Jl. Contoh No.1241,Denpasar,Mahasiswa,Kawin
+320135001242,Penduduk_1242,2,Perempuan,Jl. Contoh No.1242,Bandung,Mahasiswa,Belum Kawin
+320168001243,Penduduk_1243,67,Perempuan,Jl. Contoh No.1243,Jakarta,Petani,Cerai Mati
+320154001244,Penduduk_1244,87,Laki-laki,Jl. Contoh No.1244,Yogyakarta,Pengangguran,Kawin
+320163001245,Penduduk_1245,12,Laki-laki,Jl. Contoh No.1245,Bandung,Petani,Cerai Mati
+320142001246,Penduduk_1246,20,Perempuan,Jl. Contoh No.1246,Bandung,Dokter,Kawin
+320125001247,Penduduk_1247,5,Perempuan,Jl. Contoh No.1247,Medan,Guru,Kawin
+320132001248,Penduduk_1248,37,Perempuan,Jl. Contoh No.1248,Denpasar,Pengangguran,Cerai Mati
+320155001249,Penduduk_1249,38,Laki-laki,Jl. Contoh No.1249,Medan,Mahasiswa,Kawin
+320168001250,Penduduk_1250,9,Perempuan,Jl. Contoh No.1250,Bandung,Wiraswasta,Cerai Mati
+320175001251,Penduduk_1251,53,Perempuan,Jl. Contoh No.1251,Bandung,Pelajar,Belum Kawin
+320188001252,Penduduk_1252,44,Laki-laki,Jl. Contoh No.1252,Bandung,PNS,Cerai Mati
+320102001253,Penduduk_1253,86,Perempuan,Jl. Contoh No.1253,Makassar,Petani,Belum Kawin
+320128001254,Penduduk_1254,24,Laki-laki,Jl. Contoh No.1254,Yogyakarta,PNS,Kawin
+320156001255,Penduduk_1255,81,Laki-laki,Jl. Contoh No.1255,Yogyakarta,Pengangguran,Cerai Mati
+320188001256,Penduduk_1256,74,Laki-laki,Jl. Contoh No.1256,Medan,Wiraswasta,Kawin
+320188001257,Penduduk_1257,30,Perempuan,Jl. Contoh No.1257,Bandung,Petani,Cerai Mati
+320161001258,Penduduk_1258,59,Perempuan,Jl. Contoh No.1258,Yogyakarta,PNS,Belum Kawin
+320159001259,Penduduk_1259,87,Laki-laki,Jl. Contoh No.1259,Surabaya,Guru,Belum Kawin
+320101001260,Penduduk_1260,81,Perempuan,Jl. Contoh No.1260,Yogyakarta,Wiraswasta,Cerai Mati
+320133001261,Penduduk_1261,81,Perempuan,Jl. Contoh No.1261,Denpasar,Pelajar,Belum Kawin
+320116001262,Penduduk_1262,14,Perempuan,Jl. Contoh No.1262,Denpasar,Guru,Kawin
+320187001263,Penduduk_1263,9,Perempuan,Jl. Contoh No.1263,Yogyakarta,Wiraswasta,Kawin
+320154001264,Penduduk_1264,40,Laki-laki,Jl. Contoh No.1264,Surabaya,Dokter,Cerai Hidup
+320114001265,Penduduk_1265,66,Perempuan,Jl. Contoh No.1265,Denpasar,Petani,Belum Kawin
+320147001266,Penduduk_1266,25,Laki-laki,Jl. Contoh No.1266,Makassar,Mahasiswa,Kawin
+320132001267,Penduduk_1267,73,Laki-laki,Jl. Contoh No.1267,Yogyakarta,Pelajar,Cerai Mati
+320186001268,Penduduk_1268,22,Perempuan,Jl. Contoh No.1268,Makassar,Pengangguran,Belum Kawin
+320191001269,Penduduk_1269,4,Laki-laki,Jl. Contoh No.1269,Yogyakarta,Guru,Kawin
+320101001270,Penduduk_1270,26,Perempuan,Jl. Contoh No.1270,Jakarta,Guru,Belum Kawin
+320109001271,Penduduk_1271,58,Perempuan,Jl. Contoh No.1271,Jakarta,PNS,Cerai Mati
+320152001272,Penduduk_1272,29,Laki-laki,Jl. Contoh No.1272,Jakarta,Petani,Kawin
+320166001273,Penduduk_1273,87,Laki-laki,Jl. Contoh No.1273,Denpasar,Pengangguran,Cerai Hidup
+320172001274,Penduduk_1274,37,Laki-laki,Jl. Contoh No.1274,Makassar,Mahasiswa,Cerai Hidup
+320180001275,Penduduk_1275,75,Laki-laki,Jl. Contoh No.1275,Makassar,Wiraswasta,Belum Kawin
+320121001276,Penduduk_1276,70,Perempuan,Jl. Contoh No.1276,Makassar,Mahasiswa,Cerai Mati
+320185001277,Penduduk_1277,18,Perempuan,Jl. Contoh No.1277,Surabaya,Petani,Kawin
+320163001278,Penduduk_1278,85,Perempuan,Jl. Contoh No.1278,Makassar,Petani,Cerai Mati
+320165001279,Penduduk_1279,42,Laki-laki,Jl. Contoh No.1279,Surabaya,Dokter,Kawin
+320157001280,Penduduk_1280,41,Laki-laki,Jl. Contoh No.1280,Jakarta,Dokter,Belum Kawin
+320165001281,Penduduk_1281,38,Laki-laki,Jl. Contoh No.1281,Jakarta,Mahasiswa,Kawin
+320163001282,Penduduk_1282,34,Perempuan,Jl. Contoh No.1282,Denpasar,Wiraswasta,Cerai Mati
+320195001283,Penduduk_1283,17,Laki-laki,Jl. Contoh No.1283,Yogyakarta,Mahasiswa,Cerai Mati
+320187001284,Penduduk_1284,37,Perempuan,Jl. Contoh No.1284,Jakarta,Petani,Belum Kawin
+320145001285,Penduduk_1285,25,Laki-laki,Jl. Contoh No.1285,Yogyakarta,Petani,Cerai Mati
+320135001286,Penduduk_1286,76,Perempuan,Jl. Contoh No.1286,Yogyakarta,PNS,Kawin
+320121001287,Penduduk_1287,87,Perempuan,Jl. Contoh No.1287,Denpasar,Dokter,Belum Kawin
+320150001288,Penduduk_1288,86,Laki-laki,Jl. Contoh No.1288,Bandung,Pengangguran,Kawin
+320103001289,Penduduk_1289,85,Laki-laki,Jl. Contoh No.1289,Bandung,Pengangguran,Cerai Mati
+320155001290,Penduduk_1290,27,Perempuan,Jl. Contoh No.1290,Medan,Pengangguran,Belum Kawin
+320194001291,Penduduk_1291,57,Perempuan,Jl. Contoh No.1291,Denpasar,PNS,Kawin
+320104001292,Penduduk_1292,31,Laki-laki,Jl. Contoh No.1292,Medan,Pelajar,Cerai Mati
+320177001293,Penduduk_1293,6,Laki-laki,Jl. Contoh No.1293,Medan,Pengangguran,Cerai Mati
+320136001294,Penduduk_1294,40,Perempuan,Jl. Contoh No.1294,Bandung,Petani,Cerai Hidup
+320198001295,Penduduk_1295,12,Laki-laki,Jl. Contoh No.1295,Denpasar,PNS,Cerai Mati
+320188001296,Penduduk_1296,53,Perempuan,Jl. Contoh No.1296,Bandung,Mahasiswa,Kawin
+320152001297,Penduduk_1297,71,Perempuan,Jl. Contoh No.1297,Medan,Dokter,Belum Kawin
+320176001298,Penduduk_1298,10,Laki-laki,Jl. Contoh No.1298,Denpasar,Dokter,Cerai Hidup
+320162001299,Penduduk_1299,45,Laki-laki,Jl. Contoh No.1299,Medan,Wiraswasta,Cerai Mati
+320134001300,Penduduk_1300,17,Laki-laki,Jl. Contoh No.1300,Makassar,Mahasiswa,Cerai Mati
+320150001301,Penduduk_1301,26,Laki-laki,Jl. Contoh No.1301,Yogyakarta,Wiraswasta,Cerai Mati
+320153001302,Penduduk_1302,85,Laki-laki,Jl. Contoh No.1302,Denpasar,PNS,Kawin
+320105001303,Penduduk_1303,62,Perempuan,Jl. Contoh No.1303,Denpasar,Guru,Cerai Hidup
+320152001304,Penduduk_1304,46,Perempuan,Jl. Contoh No.1304,Yogyakarta,Pengangguran,Kawin
+320189001305,Penduduk_1305,64,Laki-laki,Jl. Contoh No.1305,Medan,Pelajar,Cerai Hidup
+320165001306,Penduduk_1306,2,Laki-laki,Jl. Contoh No.1306,Makassar,Mahasiswa,Belum Kawin
+320108001307,Penduduk_1307,54,Laki-laki,Jl. Contoh No.1307,Surabaya,Mahasiswa,Kawin
+320144001308,Penduduk_1308,65,Perempuan,Jl. Contoh No.1308,Yogyakarta,Mahasiswa,Kawin
+320137001309,Penduduk_1309,51,Laki-laki,Jl. Contoh No.1309,Bandung,Wiraswasta,Belum Kawin
+320113001310,Penduduk_1310,53,Laki-laki,Jl. Contoh No.1310,Medan,PNS,Cerai Hidup
+320167001311,Penduduk_1311,36,Perempuan,Jl. Contoh No.1311,Yogyakarta,Mahasiswa,Cerai Mati
+320185001312,Penduduk_1312,26,Perempuan,Jl. Contoh No.1312,Yogyakarta,Guru,Belum Kawin
+320164001313,Penduduk_1313,29,Laki-laki,Jl. Contoh No.1313,Denpasar,Mahasiswa,Cerai Mati
+320114001314,Penduduk_1314,21,Laki-laki,Jl. Contoh No.1314,Bandung,Dokter,Cerai Mati
+320136001315,Penduduk_1315,11,Laki-laki,Jl. Contoh No.1315,Bandung,Pengangguran,Belum Kawin
+320126001316,Penduduk_1316,40,Perempuan,Jl. Contoh No.1316,Bandung,Pelajar,Cerai Hidup
+320159001317,Penduduk_1317,11,Laki-laki,Jl. Contoh No.1317,Yogyakarta,Pengangguran,Cerai Mati
+320131001318,Penduduk_1318,36,Laki-laki,Jl. Contoh No.1318,Surabaya,Dokter,Belum Kawin
+320109001319,Penduduk_1319,59,Laki-laki,Jl. Contoh No.1319,Jakarta,Dokter,Kawin
+320109001320,Penduduk_1320,39,Perempuan,Jl. Contoh No.1320,Medan,Pelajar,Kawin
+320188001321,Penduduk_1321,54,Perempuan,Jl. Contoh No.1321,Jakarta,Guru,Kawin
+320199001322,Penduduk_1322,55,Laki-laki,Jl. Contoh No.1322,Yogyakarta,PNS,Belum Kawin
+320179001323,Penduduk_1323,24,Laki-laki,Jl. Contoh No.1323,Jakarta,Dokter,Kawin
+320156001324,Penduduk_1324,22,Perempuan,Jl. Contoh No.1324,Yogyakarta,PNS,Cerai Mati
+320135001325,Penduduk_1325,69,Perempuan,Jl. Contoh No.1325,Jakarta,Dokter,Kawin
+320140001326,Penduduk_1326,56,Perempuan,Jl. Contoh No.1326,Bandung,Petani,Kawin
+320103001327,Penduduk_1327,33,Perempuan,Jl. Contoh No.1327,Makassar,Pelajar,Cerai Mati
+320103001328,Penduduk_1328,36,Perempuan,Jl. Contoh No.1328,Bandung,Dokter,Kawin
+320181001329,Penduduk_1329,20,Perempuan,Jl. Contoh No.1329,Bandung,Petani,Cerai Mati
+320196001330,Penduduk_1330,83,Perempuan,Jl. Contoh No.1330,Denpasar,Pengangguran,Kawin
+320140001331,Penduduk_1331,81,Perempuan,Jl. Contoh No.1331,Denpasar,Wiraswasta,Cerai Mati
+320123001332,Penduduk_1332,62,Perempuan,Jl. Contoh No.1332,Jakarta,Petani,Kawin
+320143001333,Penduduk_1333,73,Laki-laki,Jl. Contoh No.1333,Yogyakarta,Mahasiswa,Cerai Mati
+320196001334,Penduduk_1334,26,Laki-laki,Jl. Contoh No.1334,Bandung,Dokter,Belum Kawin
+320166001335,Penduduk_1335,66,Laki-laki,Jl. Contoh No.1335,Jakarta,Petani,Cerai Mati
+320146001336,Penduduk_1336,73,Perempuan,Jl. Contoh No.1336,Denpasar,PNS,Kawin
+320175001337,Penduduk_1337,73,Laki-laki,Jl. Contoh No.1337,Makassar,Wiraswasta,Kawin
+320188001338,Penduduk_1338,40,Perempuan,Jl. Contoh No.1338,Medan,Guru,Cerai Hidup
+320131001339,Penduduk_1339,17,Perempuan,Jl. Contoh No.1339,Jakarta,Dokter,Cerai Mati
+320175001340,Penduduk_1340,1,Laki-laki,Jl. Contoh No.1340,Makassar,Mahasiswa,Belum Kawin
+320169001341,Penduduk_1341,89,Perempuan,Jl. Contoh No.1341,Medan,Guru,Cerai Mati
+320171001342,Penduduk_1342,61,Laki-laki,Jl. Contoh No.1342,Surabaya,Petani,Cerai Mati
+320155001343,Penduduk_1343,43,Laki-laki,Jl. Contoh No.1343,Jakarta,Guru,Belum Kawin
+320111001344,Penduduk_1344,42,Laki-laki,Jl. Contoh No.1344,Jakarta,Guru,Cerai Mati
+320151001345,Penduduk_1345,25,Perempuan,Jl. Contoh No.1345,Surabaya,Wiraswasta,Belum Kawin
+320189001346,Penduduk_1346,39,Laki-laki,Jl. Contoh No.1346,Surabaya,Pengangguran,Belum Kawin
+320114001347,Penduduk_1347,35,Perempuan,Jl. Contoh No.1347,Jakarta,Guru,Cerai Mati
+320128001348,Penduduk_1348,3,Laki-laki,Jl. Contoh No.1348,Surabaya,Guru,Cerai Mati
+320128001349,Penduduk_1349,44,Laki-laki,Jl. Contoh No.1349,Bandung,Dokter,Kawin
+320166001350,Penduduk_1350,51,Laki-laki,Jl. Contoh No.1350,Medan,Pengangguran,Kawin
+320132001351,Penduduk_1351,12,Perempuan,Jl. Contoh No.1351,Medan,Wiraswasta,Cerai Hidup
+320106001352,Penduduk_1352,19,Perempuan,Jl. Contoh No.1352,Medan,Mahasiswa,Cerai Hidup
+320178001353,Penduduk_1353,44,Perempuan,Jl. Contoh No.1353,Bandung,Petani,Cerai Mati
+320143001354,Penduduk_1354,59,Laki-laki,Jl. Contoh No.1354,Yogyakarta,Wiraswasta,Belum Kawin
+320185001355,Penduduk_1355,49,Laki-laki,Jl. Contoh No.1355,Surabaya,Wiraswasta,Cerai Hidup
+320141001356,Penduduk_1356,61,Perempuan,Jl. Contoh No.1356,Makassar,Pelajar,Cerai Mati
+320120001357,Penduduk_1357,17,Perempuan,Jl. Contoh No.1357,Surabaya,Wiraswasta,Cerai Hidup
+320189001358,Penduduk_1358,74,Perempuan,Jl. Contoh No.1358,Jakarta,Pengangguran,Belum Kawin
+320105001359,Penduduk_1359,57,Perempuan,Jl. Contoh No.1359,Denpasar,Pelajar,Cerai Mati
+320108001360,Penduduk_1360,55,Perempuan,Jl. Contoh No.1360,Medan,Petani,Belum Kawin
+320116001361,Penduduk_1361,47,Perempuan,Jl. Contoh No.1361,Surabaya,Guru,Cerai Mati
+320123001362,Penduduk_1362,12,Laki-laki,Jl. Contoh No.1362,Makassar,Dokter,Cerai Hidup
+320142001363,Penduduk_1363,62,Perempuan,Jl. Contoh No.1363,Jakarta,Dokter,Kawin
+320132001364,Penduduk_1364,80,Laki-laki,Jl. Contoh No.1364,Bandung,Petani,Cerai Hidup
+320154001365,Penduduk_1365,88,Laki-laki,Jl. Contoh No.1365,Yogyakarta,Petani,Cerai Hidup
+320152001366,Penduduk_1366,83,Perempuan,Jl. Contoh No.1366,Bandung,Pengangguran,Kawin
+320192001367,Penduduk_1367,8,Perempuan,Jl. Contoh No.1367,Makassar,PNS,Kawin
+320137001368,Penduduk_1368,21,Laki-laki,Jl. Contoh No.1368,Jakarta,Guru,Cerai Mati
+320132001369,Penduduk_1369,81,Perempuan,Jl. Contoh No.1369,Medan,Petani,Cerai Mati
+320168001370,Penduduk_1370,87,Perempuan,Jl. Contoh No.1370,Surabaya,Wiraswasta,Belum Kawin
+320105001371,Penduduk_1371,80,Laki-laki,Jl. Contoh No.1371,Jakarta,Pengangguran,Belum Kawin
+320103001372,Penduduk_1372,70,Laki-laki,Jl. Contoh No.1372,Yogyakarta,Dokter,Cerai Hidup
+320170001373,Penduduk_1373,72,Laki-laki,Jl. Contoh No.1373,Bandung,Mahasiswa,Kawin
+320162001374,Penduduk_1374,25,Perempuan,Jl. Contoh No.1374,Yogyakarta,Pengangguran,Belum Kawin
+320164001375,Penduduk_1375,82,Laki-laki,Jl. Contoh No.1375,Yogyakarta,Dokter,Cerai Hidup
+320144001376,Penduduk_1376,89,Perempuan,Jl. Contoh No.1376,Makassar,Pelajar,Kawin
+320146001377,Penduduk_1377,12,Laki-laki,Jl. Contoh No.1377,Makassar,Pengangguran,Cerai Mati
+320121001378,Penduduk_1378,15,Laki-laki,Jl. Contoh No.1378,Surabaya,Dokter,Cerai Hidup
+320154001379,Penduduk_1379,59,Laki-laki,Jl. Contoh No.1379,Makassar,PNS,Cerai Mati
+320123001380,Penduduk_1380,26,Perempuan,Jl. Contoh No.1380,Makassar,Pengangguran,Belum Kawin
+320109001381,Penduduk_1381,26,Perempuan,Jl. Contoh No.1381,Jakarta,Pengangguran,Belum Kawin
+320160001382,Penduduk_1382,47,Laki-laki,Jl. Contoh No.1382,Medan,Guru,Kawin
+320106001383,Penduduk_1383,32,Laki-laki,Jl. Contoh No.1383,Surabaya,Petani,Cerai Hidup
+320152001384,Penduduk_1384,10,Laki-laki,Jl. Contoh No.1384,Jakarta,Guru,Cerai Mati
+320154001385,Penduduk_1385,16,Perempuan,Jl. Contoh No.1385,Medan,Pengangguran,Kawin
+320157001386,Penduduk_1386,71,Laki-laki,Jl. Contoh No.1386,Yogyakarta,Petani,Belum Kawin
+320105001387,Penduduk_1387,17,Perempuan,Jl. Contoh No.1387,Jakarta,Dokter,Belum Kawin
+320170001388,Penduduk_1388,23,Laki-laki,Jl. Contoh No.1388,Denpasar,Mahasiswa,Cerai Hidup
+320159001389,Penduduk_1389,26,Laki-laki,Jl. Contoh No.1389,Jakarta,Mahasiswa,Cerai Mati
+320118001390,Penduduk_1390,85,Laki-laki,Jl. Contoh No.1390,Makassar,Pengangguran,Cerai Hidup
+320179001391,Penduduk_1391,86,Laki-laki,Jl. Contoh No.1391,Medan,PNS,Cerai Mati
+320199001392,Penduduk_1392,7,Laki-laki,Jl. Contoh No.1392,Surabaya,Pelajar,Cerai Mati
+320161001393,Penduduk_1393,14,Laki-laki,Jl. Contoh No.1393,Surabaya,Dokter,Cerai Hidup
+320101001394,Penduduk_1394,79,Perempuan,Jl. Contoh No.1394,Medan,Petani,Kawin
+320140001395,Penduduk_1395,7,Laki-laki,Jl. Contoh No.1395,Makassar,Pengangguran,Cerai Hidup
+320161001396,Penduduk_1396,9,Perempuan,Jl. Contoh No.1396,Bandung,Dokter,Cerai Hidup
+320143001397,Penduduk_1397,48,Laki-laki,Jl. Contoh No.1397,Jakarta,Pengangguran,Belum Kawin
+320169001398,Penduduk_1398,72,Laki-laki,Jl. Contoh No.1398,Makassar,PNS,Belum Kawin
+320105001399,Penduduk_1399,59,Perempuan,Jl. Contoh No.1399,Denpasar,Wiraswasta,Cerai Hidup
+320133001400,Penduduk_1400,87,Laki-laki,Jl. Contoh No.1400,Yogyakarta,Wiraswasta,Cerai Hidup
+320119001401,Penduduk_1401,82,Perempuan,Jl. Contoh No.1401,Medan,PNS,Belum Kawin
+320191001402,Penduduk_1402,39,Perempuan,Jl. Contoh No.1402,Jakarta,Petani,Cerai Mati
+320120001403,Penduduk_1403,18,Laki-laki,Jl. Contoh No.1403,Surabaya,Guru,Cerai Hidup
+320183001404,Penduduk_1404,59,Perempuan,Jl. Contoh No.1404,Yogyakarta,PNS,Kawin
+320171001405,Penduduk_1405,17,Perempuan,Jl. Contoh No.1405,Bandung,Pengangguran,Kawin
+320148001406,Penduduk_1406,14,Laki-laki,Jl. Contoh No.1406,Denpasar,Petani,Kawin
+320152001407,Penduduk_1407,31,Perempuan,Jl. Contoh No.1407,Surabaya,Mahasiswa,Cerai Hidup
+320169001408,Penduduk_1408,24,Laki-laki,Jl. Contoh No.1408,Medan,PNS,Cerai Mati
+320138001409,Penduduk_1409,60,Laki-laki,Jl. Contoh No.1409,Jakarta,Petani,Cerai Mati
+320122001410,Penduduk_1410,45,Laki-laki,Jl. Contoh No.1410,Medan,PNS,Belum Kawin
+320107001411,Penduduk_1411,3,Laki-laki,Jl. Contoh No.1411,Yogyakarta,PNS,Cerai Hidup
+320153001412,Penduduk_1412,37,Perempuan,Jl. Contoh No.1412,Jakarta,Guru,Cerai Mati
+320192001413,Penduduk_1413,43,Laki-laki,Jl. Contoh No.1413,Makassar,Guru,Cerai Hidup
+320110001414,Penduduk_1414,40,Laki-laki,Jl. Contoh No.1414,Bandung,Pengangguran,Belum Kawin
+320153001415,Penduduk_1415,55,Perempuan,Jl. Contoh No.1415,Makassar,Petani,Belum Kawin
+320117001416,Penduduk_1416,87,Laki-laki,Jl. Contoh No.1416,Makassar,Petani,Belum Kawin
+320143001417,Penduduk_1417,39,Laki-laki,Jl. Contoh No.1417,Medan,Pelajar,Kawin
+320138001418,Penduduk_1418,15,Perempuan,Jl. Contoh No.1418,Yogyakarta,PNS,Cerai Hidup
+320119001419,Penduduk_1419,4,Perempuan,Jl. Contoh No.1419,Bandung,Wiraswasta,Belum Kawin
+320188001420,Penduduk_1420,86,Perempuan,Jl. Contoh No.1420,Jakarta,PNS,Cerai Hidup
+320192001421,Penduduk_1421,25,Perempuan,Jl. Contoh No.1421,Jakarta,PNS,Kawin
+320181001422,Penduduk_1422,13,Perempuan,Jl. Contoh No.1422,Denpasar,Petani,Kawin
+320111001423,Penduduk_1423,82,Perempuan,Jl. Contoh No.1423,Surabaya,PNS,Belum Kawin
+320199001424,Penduduk_1424,33,Perempuan,Jl. Contoh No.1424,Denpasar,Dokter,Belum Kawin
+320130001425,Penduduk_1425,16,Laki-laki,Jl. Contoh No.1425,Denpasar,PNS,Cerai Mati
+320148001426,Penduduk_1426,42,Perempuan,Jl. Contoh No.1426,Jakarta,Dokter,Cerai Hidup
+320155001427,Penduduk_1427,66,Perempuan,Jl. Contoh No.1427,Medan,Guru,Belum Kawin
+320158001428,Penduduk_1428,55,Perempuan,Jl. Contoh No.1428,Makassar,Wiraswasta,Cerai Mati
+320143001429,Penduduk_1429,42,Laki-laki,Jl. Contoh No.1429,Yogyakarta,Pengangguran,Cerai Hidup
+320136001430,Penduduk_1430,34,Laki-laki,Jl. Contoh No.1430,Makassar,Petani,Belum Kawin
+320107001431,Penduduk_1431,30,Perempuan,Jl. Contoh No.1431,Makassar,PNS,Cerai Mati
+320199001432,Penduduk_1432,13,Perempuan,Jl. Contoh No.1432,Bandung,Dokter,Cerai Mati
+320153001433,Penduduk_1433,13,Perempuan,Jl. Contoh No.1433,Jakarta,Dokter,Cerai Hidup
+320102001434,Penduduk_1434,18,Laki-laki,Jl. Contoh No.1434,Yogyakarta,Guru,Cerai Mati
+320187001435,Penduduk_1435,32,Laki-laki,Jl. Contoh No.1435,Medan,Dokter,Cerai Hidup
+320158001436,Penduduk_1436,39,Perempuan,Jl. Contoh No.1436,Bandung,Pengangguran,Cerai Hidup
+320105001437,Penduduk_1437,46,Laki-laki,Jl. Contoh No.1437,Surabaya,Mahasiswa,Cerai Hidup
+320167001438,Penduduk_1438,29,Perempuan,Jl. Contoh No.1438,Medan,Pelajar,Kawin
+320157001439,Penduduk_1439,62,Laki-laki,Jl. Contoh No.1439,Denpasar,Pengangguran,Cerai Mati
+320120001440,Penduduk_1440,62,Laki-laki,Jl. Contoh No.1440,Medan,Wiraswasta,Cerai Hidup
+320103001441,Penduduk_1441,57,Perempuan,Jl. Contoh No.1441,Medan,Pengangguran,Belum Kawin
+320159001442,Penduduk_1442,16,Perempuan,Jl. Contoh No.1442,Makassar,Guru,Kawin
+320108001443,Penduduk_1443,56,Perempuan,Jl. Contoh No.1443,Medan,Guru,Kawin
+320185001444,Penduduk_1444,10,Perempuan,Jl. Contoh No.1444,Denpasar,Pengangguran,Cerai Mati
+320183001445,Penduduk_1445,30,Laki-laki,Jl. Contoh No.1445,Denpasar,PNS,Cerai Hidup
+320133001446,Penduduk_1446,25,Laki-laki,Jl. Contoh No.1446,Jakarta,Mahasiswa,Cerai Mati
+320167001447,Penduduk_1447,84,Laki-laki,Jl. Contoh No.1447,Medan,PNS,Kawin
+320159001448,Penduduk_1448,5,Perempuan,Jl. Contoh No.1448,Makassar,PNS,Cerai Hidup
+320183001449,Penduduk_1449,65,Laki-laki,Jl. Contoh No.1449,Medan,Pengangguran,Belum Kawin
+320196001450,Penduduk_1450,49,Perempuan,Jl. Contoh No.1450,Surabaya,Petani,Cerai Hidup
+320104001451,Penduduk_1451,3,Laki-laki,Jl. Contoh No.1451,Surabaya,Petani,Kawin
+320192001452,Penduduk_1452,45,Perempuan,Jl. Contoh No.1452,Makassar,Petani,Belum Kawin
+320117001453,Penduduk_1453,14,Perempuan,Jl. Contoh No.1453,Jakarta,Mahasiswa,Cerai Hidup
+320111001454,Penduduk_1454,30,Laki-laki,Jl. Contoh No.1454,Jakarta,PNS,Belum Kawin
+320105001455,Penduduk_1455,68,Perempuan,Jl. Contoh No.1455,Denpasar,Pelajar,Belum Kawin
+320150001456,Penduduk_1456,18,Perempuan,Jl. Contoh No.1456,Denpasar,Wiraswasta,Kawin
+320169001457,Penduduk_1457,62,Laki-laki,Jl. Contoh No.1457,Bandung,Petani,Belum Kawin
+320184001458,Penduduk_1458,37,Perempuan,Jl. Contoh No.1458,Makassar,Petani,Cerai Mati
+320181001459,Penduduk_1459,25,Perempuan,Jl. Contoh No.1459,Medan,Guru,Kawin
+320118001460,Penduduk_1460,48,Perempuan,Jl. Contoh No.1460,Yogyakarta,PNS,Cerai Mati
+320135001461,Penduduk_1461,65,Laki-laki,Jl. Contoh No.1461,Makassar,PNS,Belum Kawin
+320104001462,Penduduk_1462,53,Laki-laki,Jl. Contoh No.1462,Bandung,Mahasiswa,Cerai Mati
+320172001463,Penduduk_1463,79,Perempuan,Jl. Contoh No.1463,Denpasar,Mahasiswa,Cerai Hidup
+320188001464,Penduduk_1464,73,Laki-laki,Jl. Contoh No.1464,Makassar,Petani,Belum Kawin
+320133001465,Penduduk_1465,15,Perempuan,Jl. Contoh No.1465,Makassar,PNS,Cerai Hidup
+320180001466,Penduduk_1466,49,Perempuan,Jl. Contoh No.1466,Denpasar,Pelajar,Cerai Mati
+320179001467,Penduduk_1467,88,Perempuan,Jl. Contoh No.1467,Bandung,Wiraswasta,Cerai Hidup
+320169001468,Penduduk_1468,68,Perempuan,Jl. Contoh No.1468,Denpasar,Pengangguran,Belum Kawin
+320116001469,Penduduk_1469,12,Perempuan,Jl. Contoh No.1469,Jakarta,PNS,Cerai Hidup
+320152001470,Penduduk_1470,59,Laki-laki,Jl. Contoh No.1470,Medan,Guru,Cerai Mati
+320192001471,Penduduk_1471,37,Perempuan,Jl. Contoh No.1471,Denpasar,Pengangguran,Cerai Mati
+320110001472,Penduduk_1472,61,Laki-laki,Jl. Contoh No.1472,Bandung,PNS,Cerai Mati
+320187001473,Penduduk_1473,43,Laki-laki,Jl. Contoh No.1473,Surabaya,Dokter,Belum Kawin
+320109001474,Penduduk_1474,70,Perempuan,Jl. Contoh No.1474,Jakarta,Mahasiswa,Cerai Mati
+320188001475,Penduduk_1475,39,Perempuan,Jl. Contoh No.1475,Surabaya,Guru,Belum Kawin
+320172001476,Penduduk_1476,56,Laki-laki,Jl. Contoh No.1476,Yogyakarta,Wiraswasta,Cerai Hidup
+320172001477,Penduduk_1477,63,Laki-laki,Jl. Contoh No.1477,Denpasar,Petani,Cerai Mati
+320122001478,Penduduk_1478,46,Laki-laki,Jl. Contoh No.1478,Jakarta,Guru,Cerai Hidup
+320193001479,Penduduk_1479,88,Perempuan,Jl. Contoh No.1479,Medan,PNS,Kawin
+320154001480,Penduduk_1480,11,Laki-laki,Jl. Contoh No.1480,Denpasar,Petani,Cerai Hidup
+320175001481,Penduduk_1481,62,Perempuan,Jl. Contoh No.1481,Medan,PNS,Kawin
+320146001482,Penduduk_1482,77,Perempuan,Jl. Contoh No.1482,Makassar,Petani,Cerai Hidup
+320181001483,Penduduk_1483,25,Perempuan,Jl. Contoh No.1483,Surabaya,Wiraswasta,Belum Kawin
+320133001484,Penduduk_1484,71,Laki-laki,Jl. Contoh No.1484,Jakarta,Mahasiswa,Cerai Hidup
+320131001485,Penduduk_1485,52,Perempuan,Jl. Contoh No.1485,Medan,Wiraswasta,Belum Kawin
+320168001486,Penduduk_1486,4,Perempuan,Jl. Contoh No.1486,Bandung,Dokter,Belum Kawin
+320187001487,Penduduk_1487,59,Perempuan,Jl. Contoh No.1487,Medan,Pelajar,Cerai Mati
+320159001488,Penduduk_1488,72,Perempuan,Jl. Contoh No.1488,Bandung,Mahasiswa,Belum Kawin
+320101001489,Penduduk_1489,20,Perempuan,Jl. Contoh No.1489,Denpasar,Wiraswasta,Kawin
+320131001490,Penduduk_1490,63,Laki-laki,Jl. Contoh No.1490,Jakarta,Dokter,Cerai Mati
+320126001491,Penduduk_1491,54,Perempuan,Jl. Contoh No.1491,Medan,Pelajar,Cerai Mati
+320105001492,Penduduk_1492,74,Perempuan,Jl. Contoh No.1492,Yogyakarta,Dokter,Cerai Hidup
+320143001493,Penduduk_1493,57,Laki-laki,Jl. Contoh No.1493,Medan,PNS,Belum Kawin
+320124001494,Penduduk_1494,41,Perempuan,Jl. Contoh No.1494,Yogyakarta,Pengangguran,Belum Kawin
+320144001495,Penduduk_1495,3,Laki-laki,Jl. Contoh No.1495,Jakarta,PNS,Kawin
+320177001496,Penduduk_1496,6,Perempuan,Jl. Contoh No.1496,Medan,Petani,Cerai Hidup
+320113001497,Penduduk_1497,5,Laki-laki,Jl. Contoh No.1497,Bandung,Mahasiswa,Cerai Hidup
+320124001498,Penduduk_1498,5,Laki-laki,Jl. Contoh No.1498,Medan,PNS,Cerai Mati
+320113001499,Penduduk_1499,54,Perempuan,Jl. Contoh No.1499,Surabaya,Guru,Cerai Mati
+320117001500,Penduduk_1500,47,Perempuan,Jl. Contoh No.1500,Denpasar,Dokter,Cerai Mati
